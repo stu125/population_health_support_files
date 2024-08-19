@@ -1,0 +1,1864 @@
+code,digit_2,digit_3,digit_4,type_of_facility,type_of_care,center_digits,freq_of_bill
+0110,1,1,0,Hospital,Inpatient (Part A),11,Non-payment/Zero Claim
+0210,2,1,0,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Non-payment/Zero Claim
+0310,3,1,0,Home Health,Inpatient (Part A),31,Non-payment/Zero Claim
+0410,4,1,0,Religious Nonmedical (Hospital),Inpatient (Part A),41,Non-payment/Zero Claim
+0510,5,1,0,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Non-payment/Zero Claim
+0610,6,1,0,Intermediate Care,Inpatient (Part A),61,Non-payment/Zero Claim
+0710,7,1,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Non-payment/Zero Claim
+0810,8,1,0,Special facility or hospital,Hospice (non-hospital based),81,Non-payment/Zero Claim
+0910,9,1,0,Reserved for National Assignment,Inpatient (Part A),91,Non-payment/Zero Claim
+0120,1,2,0,Hospital,Inpatient (Part B),12,Non-payment/Zero Claim
+0220,2,2,0,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Non-payment/Zero Claim
+0320,3,2,0,Home Health,Inpatient (Part B),32,Non-payment/Zero Claim
+0420,4,2,0,Religious Nonmedical (Hospital),Inpatient (Part B),42,Non-payment/Zero Claim
+0520,5,2,0,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Non-payment/Zero Claim
+0620,6,2,0,Intermediate Care,Inpatient (Part B),62,Non-payment/Zero Claim
+0720,7,2,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Non-payment/Zero Claim
+0820,8,2,0,Special facility or hospital,Hospice (hospital based),82,Non-payment/Zero Claim
+0920,9,2,0,Reserved for National Assignment,Inpatient (Part B),92,Non-payment/Zero Claim
+0130,1,3,0,Hospital,Outpatient,13,Non-payment/Zero Claim
+0230,2,3,0,Skilled Nursing Facility (SNF),Outpatient,23,Non-payment/Zero Claim
+0330,3,3,0,Home Health,Outpatient,33,Non-payment/Zero Claim
+0430,4,3,0,Religious Nonmedical (Hospital),Outpatient,43,Non-payment/Zero Claim
+0530,5,3,0,Religious Nonmedical (Extended Care),Outpatient,53,Non-payment/Zero Claim
+0630,6,3,0,Intermediate Care,Outpatient,63,Non-payment/Zero Claim
+0730,7,3,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Non-payment/Zero Claim
+0830,8,3,0,Special facility or hospital,ASC Services to Hospital Outpatients,83,Non-payment/Zero Claim
+0930,9,3,0,Reserved for National Assignment,Outpatient,93,Non-payment/Zero Claim
+0140,1,4,0,Hospital,Other (Part B),14,Non-payment/Zero Claim
+0240,2,4,0,Skilled Nursing Facility (SNF),Other (Part B),24,Non-payment/Zero Claim
+0340,3,4,0,Home Health,Other (Part B),34,Non-payment/Zero Claim
+0440,4,4,0,Religious Nonmedical (Hospital),Other (Part B),44,Non-payment/Zero Claim
+0540,5,4,0,Religious Nonmedical (Extended Care),Other (Part B),54,Non-payment/Zero Claim
+0640,6,4,0,Intermediate Care,Other (Part B),64,Non-payment/Zero Claim
+0740,7,4,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Non-payment/Zero Claim
+0840,8,4,0,Special facility or hospital,Free Standing Birthing Center,84,Non-payment/Zero Claim
+0940,9,4,0,Reserved for National Assignment,Other (Part B),94,Non-payment/Zero Claim
+0150,1,5,0,Hospital,Intermediate Care - Level I,15,Non-payment/Zero Claim
+0250,2,5,0,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Non-payment/Zero Claim
+0350,3,5,0,Home Health,Intermediate Care - Level I,35,Non-payment/Zero Claim
+0450,4,5,0,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Non-payment/Zero Claim
+0550,5,5,0,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Non-payment/Zero Claim
+0650,6,5,0,Intermediate Care,Intermediate Care - Level I,65,Non-payment/Zero Claim
+0750,7,5,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Non-payment/Zero Claim
+0850,8,5,0,Special facility or hospital,Critical Access Hospital (CAH),85,Non-payment/Zero Claim
+0950,9,5,0,Reserved for National Assignment,Intermediate Care - Level I,95,Non-payment/Zero Claim
+0160,1,6,0,Hospital,Intermediate Care - Level II,16,Non-payment/Zero Claim
+0260,2,6,0,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Non-payment/Zero Claim
+0360,3,6,0,Home Health,Intermediate Care - Level II,36,Non-payment/Zero Claim
+0460,4,6,0,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Non-payment/Zero Claim
+0560,5,6,0,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Non-payment/Zero Claim
+0660,6,6,0,Intermediate Care,Intermediate Care - Level II,66,Non-payment/Zero Claim
+0760,7,6,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Non-payment/Zero Claim
+0860,8,6,0,Special facility or hospital,Residential Facility,86,Non-payment/Zero Claim
+0960,9,6,0,Reserved for National Assignment,Intermediate Care - Level II,96,Non-payment/Zero Claim
+0170,1,7,0,Hospital,Subacute Inpatient,17,Non-payment/Zero Claim
+0270,2,7,0,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Non-payment/Zero Claim
+0370,3,7,0,Home Health,Subacute Inpatient,37,Non-payment/Zero Claim
+0470,4,7,0,Religious Nonmedical (Hospital),Subacute Inpatient,47,Non-payment/Zero Claim
+0570,5,7,0,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Non-payment/Zero Claim
+0670,6,7,0,Intermediate Care,Subacute Inpatient,67,Non-payment/Zero Claim
+0770,7,7,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Non-payment/Zero Claim
+0870,8,7,0,Special facility or hospital,Reserved for National Assignment,87,Non-payment/Zero Claim
+0970,9,7,0,Reserved for National Assignment,Subacute Inpatient,97,Non-payment/Zero Claim
+0180,1,8,0,Hospital,Reserved for National Assignment,18,Non-payment/Zero Claim
+0280,2,8,0,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Non-payment/Zero Claim
+0380,3,8,0,Home Health,Reserved for National Assignment,38,Non-payment/Zero Claim
+0480,4,8,0,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Non-payment/Zero Claim
+0580,5,8,0,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Non-payment/Zero Claim
+0680,6,8,0,Intermediate Care,Reserved for National Assignment,68,Non-payment/Zero Claim
+0780,7,8,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Non-payment/Zero Claim
+0880,8,8,0,Special facility or hospital,Reserved for National Assignment,88,Non-payment/Zero Claim
+0980,9,8,0,Reserved for National Assignment,Reserved for National Assignment,98,Non-payment/Zero Claim
+0190,1,9,0,Hospital,Reserved for National Assignment,19,Non-payment/Zero Claim
+0290,2,9,0,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Non-payment/Zero Claim
+0390,3,9,0,Home Health,Reserved for National Assignment,39,Non-payment/Zero Claim
+0490,4,9,0,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Non-payment/Zero Claim
+0590,5,9,0,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Non-payment/Zero Claim
+0690,6,9,0,Intermediate Care,Reserved for National Assignment,69,Non-payment/Zero Claim
+0790,7,9,0,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Non-payment/Zero Claim
+0890,8,9,0,Special facility or hospital,Other,89,Non-payment/Zero Claim
+0990,9,9,0,Reserved for National Assignment,Reserved for National Assignment,99,Non-payment/Zero Claim
+0111,1,1,1,Hospital,Inpatient (Part A),11,Admit Through Discharge
+0211,2,1,1,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Admit Through Discharge
+0311,3,1,1,Home Health,Inpatient (Part A),31,Admit Through Discharge
+0411,4,1,1,Religious Nonmedical (Hospital),Inpatient (Part A),41,Admit Through Discharge
+0511,5,1,1,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Admit Through Discharge
+0611,6,1,1,Intermediate Care,Inpatient (Part A),61,Admit Through Discharge
+0711,7,1,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Admit Through Discharge
+0811,8,1,1,Special facility or hospital,Hospice (non-hospital based),81,Admit Through Discharge
+0911,9,1,1,Reserved for National Assignment,Inpatient (Part A),91,Admit Through Discharge
+0121,1,2,1,Hospital,Inpatient (Part B),12,Admit Through Discharge
+0221,2,2,1,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Admit Through Discharge
+0321,3,2,1,Home Health,Inpatient (Part B),32,Admit Through Discharge
+0421,4,2,1,Religious Nonmedical (Hospital),Inpatient (Part B),42,Admit Through Discharge
+0521,5,2,1,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Admit Through Discharge
+0621,6,2,1,Intermediate Care,Inpatient (Part B),62,Admit Through Discharge
+0721,7,2,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Admit Through Discharge
+0821,8,2,1,Special facility or hospital,Hospice (hospital based),82,Admit Through Discharge
+0921,9,2,1,Reserved for National Assignment,Inpatient (Part B),92,Admit Through Discharge
+0131,1,3,1,Hospital,Outpatient,13,Admit Through Discharge
+0231,2,3,1,Skilled Nursing Facility (SNF),Outpatient,23,Admit Through Discharge
+0331,3,3,1,Home Health,Outpatient,33,Admit Through Discharge
+0431,4,3,1,Religious Nonmedical (Hospital),Outpatient,43,Admit Through Discharge
+0531,5,3,1,Religious Nonmedical (Extended Care),Outpatient,53,Admit Through Discharge
+0631,6,3,1,Intermediate Care,Outpatient,63,Admit Through Discharge
+0731,7,3,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Admit Through Discharge
+0831,8,3,1,Special facility or hospital,ASC Services to Hospital Outpatients,83,Admit Through Discharge
+0931,9,3,1,Reserved for National Assignment,Outpatient,93,Admit Through Discharge
+0141,1,4,1,Hospital,Other (Part B),14,Admit Through Discharge
+0241,2,4,1,Skilled Nursing Facility (SNF),Other (Part B),24,Admit Through Discharge
+0341,3,4,1,Home Health,Other (Part B),34,Admit Through Discharge
+0441,4,4,1,Religious Nonmedical (Hospital),Other (Part B),44,Admit Through Discharge
+0541,5,4,1,Religious Nonmedical (Extended Care),Other (Part B),54,Admit Through Discharge
+0641,6,4,1,Intermediate Care,Other (Part B),64,Admit Through Discharge
+0741,7,4,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Admit Through Discharge
+0841,8,4,1,Special facility or hospital,Free Standing Birthing Center,84,Admit Through Discharge
+0941,9,4,1,Reserved for National Assignment,Other (Part B),94,Admit Through Discharge
+0151,1,5,1,Hospital,Intermediate Care - Level I,15,Admit Through Discharge
+0251,2,5,1,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Admit Through Discharge
+0351,3,5,1,Home Health,Intermediate Care - Level I,35,Admit Through Discharge
+0451,4,5,1,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Admit Through Discharge
+0551,5,5,1,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Admit Through Discharge
+0651,6,5,1,Intermediate Care,Intermediate Care - Level I,65,Admit Through Discharge
+0751,7,5,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Admit Through Discharge
+0851,8,5,1,Special facility or hospital,Critical Access Hospital (CAH),85,Admit Through Discharge
+0951,9,5,1,Reserved for National Assignment,Intermediate Care - Level I,95,Admit Through Discharge
+0161,1,6,1,Hospital,Intermediate Care - Level II,16,Admit Through Discharge
+0261,2,6,1,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Admit Through Discharge
+0361,3,6,1,Home Health,Intermediate Care - Level II,36,Admit Through Discharge
+0461,4,6,1,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Admit Through Discharge
+0561,5,6,1,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Admit Through Discharge
+0661,6,6,1,Intermediate Care,Intermediate Care - Level II,66,Admit Through Discharge
+0761,7,6,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Admit Through Discharge
+0861,8,6,1,Special facility or hospital,Residential Facility,86,Admit Through Discharge
+0961,9,6,1,Reserved for National Assignment,Intermediate Care - Level II,96,Admit Through Discharge
+0171,1,7,1,Hospital,Subacute Inpatient,17,Admit Through Discharge
+0271,2,7,1,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Admit Through Discharge
+0371,3,7,1,Home Health,Subacute Inpatient,37,Admit Through Discharge
+0471,4,7,1,Religious Nonmedical (Hospital),Subacute Inpatient,47,Admit Through Discharge
+0571,5,7,1,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Admit Through Discharge
+0671,6,7,1,Intermediate Care,Subacute Inpatient,67,Admit Through Discharge
+0771,7,7,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Admit Through Discharge
+0871,8,7,1,Special facility or hospital,Reserved for National Assignment,87,Admit Through Discharge
+0971,9,7,1,Reserved for National Assignment,Subacute Inpatient,97,Admit Through Discharge
+0181,1,8,1,Hospital,Reserved for National Assignment,18,Admit Through Discharge
+0281,2,8,1,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Admit Through Discharge
+0381,3,8,1,Home Health,Reserved for National Assignment,38,Admit Through Discharge
+0481,4,8,1,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Admit Through Discharge
+0581,5,8,1,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Admit Through Discharge
+0681,6,8,1,Intermediate Care,Reserved for National Assignment,68,Admit Through Discharge
+0781,7,8,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Admit Through Discharge
+0881,8,8,1,Special facility or hospital,Reserved for National Assignment,88,Admit Through Discharge
+0981,9,8,1,Reserved for National Assignment,Reserved for National Assignment,98,Admit Through Discharge
+0191,1,9,1,Hospital,Reserved for National Assignment,19,Admit Through Discharge
+0291,2,9,1,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Admit Through Discharge
+0391,3,9,1,Home Health,Reserved for National Assignment,39,Admit Through Discharge
+0491,4,9,1,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Admit Through Discharge
+0591,5,9,1,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Admit Through Discharge
+0691,6,9,1,Intermediate Care,Reserved for National Assignment,69,Admit Through Discharge
+0791,7,9,1,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Admit Through Discharge
+0891,8,9,1,Special facility or hospital,Other,89,Admit Through Discharge
+0991,9,9,1,Reserved for National Assignment,Reserved for National Assignment,99,Admit Through Discharge
+0112,1,1,2,Hospital,Inpatient (Part A),11,Interim - First claim
+0212,2,1,2,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Interim - First claim
+0312,3,1,2,Home Health,Inpatient (Part A),31,Interim - First claim
+0412,4,1,2,Religious Nonmedical (Hospital),Inpatient (Part A),41,Interim - First claim
+0512,5,1,2,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Interim - First claim
+0612,6,1,2,Intermediate Care,Inpatient (Part A),61,Interim - First claim
+0712,7,1,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Interim - First claim
+0812,8,1,2,Special facility or hospital,Hospice (non-hospital based),81,Interim - First claim
+0912,9,1,2,Reserved for National Assignment,Inpatient (Part A),91,Interim - First claim
+0122,1,2,2,Hospital,Inpatient (Part B),12,Interim - First claim
+0222,2,2,2,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Interim - First claim
+0322,3,2,2,Home Health,Inpatient (Part B),32,Interim - First claim
+0422,4,2,2,Religious Nonmedical (Hospital),Inpatient (Part B),42,Interim - First claim
+0522,5,2,2,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Interim - First claim
+0622,6,2,2,Intermediate Care,Inpatient (Part B),62,Interim - First claim
+0722,7,2,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Interim - First claim
+0822,8,2,2,Special facility or hospital,Hospice (hospital based),82,Interim - First claim
+0922,9,2,2,Reserved for National Assignment,Inpatient (Part B),92,Interim - First claim
+0132,1,3,2,Hospital,Outpatient,13,Interim - First claim
+0232,2,3,2,Skilled Nursing Facility (SNF),Outpatient,23,Interim - First claim
+0332,3,3,2,Home Health,Outpatient,33,Interim - First claim
+0432,4,3,2,Religious Nonmedical (Hospital),Outpatient,43,Interim - First claim
+0532,5,3,2,Religious Nonmedical (Extended Care),Outpatient,53,Interim - First claim
+0632,6,3,2,Intermediate Care,Outpatient,63,Interim - First claim
+0732,7,3,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Interim - First claim
+0832,8,3,2,Special facility or hospital,ASC Services to Hospital Outpatients,83,Interim - First claim
+0932,9,3,2,Reserved for National Assignment,Outpatient,93,Interim - First claim
+0142,1,4,2,Hospital,Other (Part B),14,Interim - First claim
+0242,2,4,2,Skilled Nursing Facility (SNF),Other (Part B),24,Interim - First claim
+0342,3,4,2,Home Health,Other (Part B),34,Interim - First claim
+0442,4,4,2,Religious Nonmedical (Hospital),Other (Part B),44,Interim - First claim
+0542,5,4,2,Religious Nonmedical (Extended Care),Other (Part B),54,Interim - First claim
+0642,6,4,2,Intermediate Care,Other (Part B),64,Interim - First claim
+0742,7,4,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Interim - First claim
+0842,8,4,2,Special facility or hospital,Free Standing Birthing Center,84,Interim - First claim
+0942,9,4,2,Reserved for National Assignment,Other (Part B),94,Interim - First claim
+0152,1,5,2,Hospital,Intermediate Care - Level I,15,Interim - First claim
+0252,2,5,2,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Interim - First claim
+0352,3,5,2,Home Health,Intermediate Care - Level I,35,Interim - First claim
+0452,4,5,2,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Interim - First claim
+0552,5,5,2,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Interim - First claim
+0652,6,5,2,Intermediate Care,Intermediate Care - Level I,65,Interim - First claim
+0752,7,5,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Interim - First claim
+0852,8,5,2,Special facility or hospital,Critical Access Hospital (CAH),85,Interim - First claim
+0952,9,5,2,Reserved for National Assignment,Intermediate Care - Level I,95,Interim - First claim
+0162,1,6,2,Hospital,Intermediate Care - Level II,16,Interim - First claim
+0262,2,6,2,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Interim - First claim
+0362,3,6,2,Home Health,Intermediate Care - Level II,36,Interim - First claim
+0462,4,6,2,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Interim - First claim
+0562,5,6,2,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Interim - First claim
+0662,6,6,2,Intermediate Care,Intermediate Care - Level II,66,Interim - First claim
+0762,7,6,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Interim - First claim
+0862,8,6,2,Special facility or hospital,Residential Facility,86,Interim - First claim
+0962,9,6,2,Reserved for National Assignment,Intermediate Care - Level II,96,Interim - First claim
+0172,1,7,2,Hospital,Subacute Inpatient,17,Interim - First claim
+0272,2,7,2,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Interim - First claim
+0372,3,7,2,Home Health,Subacute Inpatient,37,Interim - First claim
+0472,4,7,2,Religious Nonmedical (Hospital),Subacute Inpatient,47,Interim - First claim
+0572,5,7,2,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Interim - First claim
+0672,6,7,2,Intermediate Care,Subacute Inpatient,67,Interim - First claim
+0772,7,7,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Interim - First claim
+0872,8,7,2,Special facility or hospital,Reserved for National Assignment,87,Interim - First claim
+0972,9,7,2,Reserved for National Assignment,Subacute Inpatient,97,Interim - First claim
+0182,1,8,2,Hospital,Reserved for National Assignment,18,Interim - First claim
+0282,2,8,2,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Interim - First claim
+0382,3,8,2,Home Health,Reserved for National Assignment,38,Interim - First claim
+0482,4,8,2,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Interim - First claim
+0582,5,8,2,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Interim - First claim
+0682,6,8,2,Intermediate Care,Reserved for National Assignment,68,Interim - First claim
+0782,7,8,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Interim - First claim
+0882,8,8,2,Special facility or hospital,Reserved for National Assignment,88,Interim - First claim
+0982,9,8,2,Reserved for National Assignment,Reserved for National Assignment,98,Interim - First claim
+0192,1,9,2,Hospital,Reserved for National Assignment,19,Interim - First claim
+0292,2,9,2,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Interim - First claim
+0392,3,9,2,Home Health,Reserved for National Assignment,39,Interim - First claim
+0492,4,9,2,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Interim - First claim
+0592,5,9,2,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Interim - First claim
+0692,6,9,2,Intermediate Care,Reserved for National Assignment,69,Interim - First claim
+0792,7,9,2,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Interim - First claim
+0892,8,9,2,Special facility or hospital,Other,89,Interim - First claim
+0992,9,9,2,Reserved for National Assignment,Reserved for National Assignment,99,Interim - First claim
+0113,1,1,3,Hospital,Inpatient (Part A),11,Interim - Continuing Claims
+0213,2,1,3,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Interim - Continuing Claims
+0313,3,1,3,Home Health,Inpatient (Part A),31,Interim - Continuing Claims
+0413,4,1,3,Religious Nonmedical (Hospital),Inpatient (Part A),41,Interim - Continuing Claims
+0513,5,1,3,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Interim - Continuing Claims
+0613,6,1,3,Intermediate Care,Inpatient (Part A),61,Interim - Continuing Claims
+0713,7,1,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Interim - Continuing Claims
+0813,8,1,3,Special facility or hospital,Hospice (non-hospital based),81,Interim - Continuing Claims
+0913,9,1,3,Reserved for National Assignment,Inpatient (Part A),91,Interim - Continuing Claims
+0123,1,2,3,Hospital,Inpatient (Part B),12,Interim - Continuing Claims
+0223,2,2,3,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Interim - Continuing Claims
+0323,3,2,3,Home Health,Inpatient (Part B),32,Interim - Continuing Claims
+0423,4,2,3,Religious Nonmedical (Hospital),Inpatient (Part B),42,Interim - Continuing Claims
+0523,5,2,3,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Interim - Continuing Claims
+0623,6,2,3,Intermediate Care,Inpatient (Part B),62,Interim - Continuing Claims
+0723,7,2,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Interim - Continuing Claims
+0823,8,2,3,Special facility or hospital,Hospice (hospital based),82,Interim - Continuing Claims
+0923,9,2,3,Reserved for National Assignment,Inpatient (Part B),92,Interim - Continuing Claims
+0133,1,3,3,Hospital,Outpatient,13,Interim - Continuing Claims
+0233,2,3,3,Skilled Nursing Facility (SNF),Outpatient,23,Interim - Continuing Claims
+0333,3,3,3,Home Health,Outpatient,33,Interim - Continuing Claims
+0433,4,3,3,Religious Nonmedical (Hospital),Outpatient,43,Interim - Continuing Claims
+0533,5,3,3,Religious Nonmedical (Extended Care),Outpatient,53,Interim - Continuing Claims
+0633,6,3,3,Intermediate Care,Outpatient,63,Interim - Continuing Claims
+0733,7,3,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Interim - Continuing Claims
+0833,8,3,3,Special facility or hospital,ASC Services to Hospital Outpatients,83,Interim - Continuing Claims
+0933,9,3,3,Reserved for National Assignment,Outpatient,93,Interim - Continuing Claims
+0143,1,4,3,Hospital,Other (Part B),14,Interim - Continuing Claims
+0243,2,4,3,Skilled Nursing Facility (SNF),Other (Part B),24,Interim - Continuing Claims
+0343,3,4,3,Home Health,Other (Part B),34,Interim - Continuing Claims
+0443,4,4,3,Religious Nonmedical (Hospital),Other (Part B),44,Interim - Continuing Claims
+0543,5,4,3,Religious Nonmedical (Extended Care),Other (Part B),54,Interim - Continuing Claims
+0643,6,4,3,Intermediate Care,Other (Part B),64,Interim - Continuing Claims
+0743,7,4,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Interim - Continuing Claims
+0843,8,4,3,Special facility or hospital,Free Standing Birthing Center,84,Interim - Continuing Claims
+0943,9,4,3,Reserved for National Assignment,Other (Part B),94,Interim - Continuing Claims
+0153,1,5,3,Hospital,Intermediate Care - Level I,15,Interim - Continuing Claims
+0253,2,5,3,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Interim - Continuing Claims
+0353,3,5,3,Home Health,Intermediate Care - Level I,35,Interim - Continuing Claims
+0453,4,5,3,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Interim - Continuing Claims
+0553,5,5,3,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Interim - Continuing Claims
+0653,6,5,3,Intermediate Care,Intermediate Care - Level I,65,Interim - Continuing Claims
+0753,7,5,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Interim - Continuing Claims
+0853,8,5,3,Special facility or hospital,Critical Access Hospital (CAH),85,Interim - Continuing Claims
+0953,9,5,3,Reserved for National Assignment,Intermediate Care - Level I,95,Interim - Continuing Claims
+0163,1,6,3,Hospital,Intermediate Care - Level II,16,Interim - Continuing Claims
+0263,2,6,3,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Interim - Continuing Claims
+0363,3,6,3,Home Health,Intermediate Care - Level II,36,Interim - Continuing Claims
+0463,4,6,3,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Interim - Continuing Claims
+0563,5,6,3,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Interim - Continuing Claims
+0663,6,6,3,Intermediate Care,Intermediate Care - Level II,66,Interim - Continuing Claims
+0763,7,6,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Interim - Continuing Claims
+0863,8,6,3,Special facility or hospital,Residential Facility,86,Interim - Continuing Claims
+0963,9,6,3,Reserved for National Assignment,Intermediate Care - Level II,96,Interim - Continuing Claims
+0173,1,7,3,Hospital,Subacute Inpatient,17,Interim - Continuing Claims
+0273,2,7,3,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Interim - Continuing Claims
+0373,3,7,3,Home Health,Subacute Inpatient,37,Interim - Continuing Claims
+0473,4,7,3,Religious Nonmedical (Hospital),Subacute Inpatient,47,Interim - Continuing Claims
+0573,5,7,3,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Interim - Continuing Claims
+0673,6,7,3,Intermediate Care,Subacute Inpatient,67,Interim - Continuing Claims
+0773,7,7,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Interim - Continuing Claims
+0873,8,7,3,Special facility or hospital,Reserved for National Assignment,87,Interim - Continuing Claims
+0973,9,7,3,Reserved for National Assignment,Subacute Inpatient,97,Interim - Continuing Claims
+0183,1,8,3,Hospital,Reserved for National Assignment,18,Interim - Continuing Claims
+0283,2,8,3,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Interim - Continuing Claims
+0383,3,8,3,Home Health,Reserved for National Assignment,38,Interim - Continuing Claims
+0483,4,8,3,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Interim - Continuing Claims
+0583,5,8,3,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Interim - Continuing Claims
+0683,6,8,3,Intermediate Care,Reserved for National Assignment,68,Interim - Continuing Claims
+0783,7,8,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Interim - Continuing Claims
+0883,8,8,3,Special facility or hospital,Reserved for National Assignment,88,Interim - Continuing Claims
+0983,9,8,3,Reserved for National Assignment,Reserved for National Assignment,98,Interim - Continuing Claims
+0193,1,9,3,Hospital,Reserved for National Assignment,19,Interim - Continuing Claims
+0293,2,9,3,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Interim - Continuing Claims
+0393,3,9,3,Home Health,Reserved for National Assignment,39,Interim - Continuing Claims
+0493,4,9,3,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Interim - Continuing Claims
+0593,5,9,3,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Interim - Continuing Claims
+0693,6,9,3,Intermediate Care,Reserved for National Assignment,69,Interim - Continuing Claims
+0793,7,9,3,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Interim - Continuing Claims
+0893,8,9,3,Special facility or hospital,Other,89,Interim - Continuing Claims
+0993,9,9,3,Reserved for National Assignment,Reserved for National Assignment,99,Interim - Continuing Claims
+0114,1,1,4,Hospital,Inpatient (Part A),11,Interim - Last Claim
+0214,2,1,4,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Interim - Last Claim
+0314,3,1,4,Home Health,Inpatient (Part A),31,Interim - Last Claim
+0414,4,1,4,Religious Nonmedical (Hospital),Inpatient (Part A),41,Interim - Last Claim
+0514,5,1,4,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Interim - Last Claim
+0614,6,1,4,Intermediate Care,Inpatient (Part A),61,Interim - Last Claim
+0714,7,1,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Interim - Last Claim
+0814,8,1,4,Special facility or hospital,Hospice (non-hospital based),81,Interim - Last Claim
+0914,9,1,4,Reserved for National Assignment,Inpatient (Part A),91,Interim - Last Claim
+0124,1,2,4,Hospital,Inpatient (Part B),12,Interim - Last Claim
+0224,2,2,4,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Interim - Last Claim
+0324,3,2,4,Home Health,Inpatient (Part B),32,Interim - Last Claim
+0424,4,2,4,Religious Nonmedical (Hospital),Inpatient (Part B),42,Interim - Last Claim
+0524,5,2,4,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Interim - Last Claim
+0624,6,2,4,Intermediate Care,Inpatient (Part B),62,Interim - Last Claim
+0724,7,2,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Interim - Last Claim
+0824,8,2,4,Special facility or hospital,Hospice (hospital based),82,Interim - Last Claim
+0924,9,2,4,Reserved for National Assignment,Inpatient (Part B),92,Interim - Last Claim
+0134,1,3,4,Hospital,Outpatient,13,Interim - Last Claim
+0234,2,3,4,Skilled Nursing Facility (SNF),Outpatient,23,Interim - Last Claim
+0334,3,3,4,Home Health,Outpatient,33,Interim - Last Claim
+0434,4,3,4,Religious Nonmedical (Hospital),Outpatient,43,Interim - Last Claim
+0534,5,3,4,Religious Nonmedical (Extended Care),Outpatient,53,Interim - Last Claim
+0634,6,3,4,Intermediate Care,Outpatient,63,Interim - Last Claim
+0734,7,3,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Interim - Last Claim
+0834,8,3,4,Special facility or hospital,ASC Services to Hospital Outpatients,83,Interim - Last Claim
+0934,9,3,4,Reserved for National Assignment,Outpatient,93,Interim - Last Claim
+0144,1,4,4,Hospital,Other (Part B),14,Interim - Last Claim
+0244,2,4,4,Skilled Nursing Facility (SNF),Other (Part B),24,Interim - Last Claim
+0344,3,4,4,Home Health,Other (Part B),34,Interim - Last Claim
+0444,4,4,4,Religious Nonmedical (Hospital),Other (Part B),44,Interim - Last Claim
+0544,5,4,4,Religious Nonmedical (Extended Care),Other (Part B),54,Interim - Last Claim
+0644,6,4,4,Intermediate Care,Other (Part B),64,Interim - Last Claim
+0744,7,4,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Interim - Last Claim
+0844,8,4,4,Special facility or hospital,Free Standing Birthing Center,84,Interim - Last Claim
+0944,9,4,4,Reserved for National Assignment,Other (Part B),94,Interim - Last Claim
+0154,1,5,4,Hospital,Intermediate Care - Level I,15,Interim - Last Claim
+0254,2,5,4,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Interim - Last Claim
+0354,3,5,4,Home Health,Intermediate Care - Level I,35,Interim - Last Claim
+0454,4,5,4,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Interim - Last Claim
+0554,5,5,4,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Interim - Last Claim
+0654,6,5,4,Intermediate Care,Intermediate Care - Level I,65,Interim - Last Claim
+0754,7,5,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Interim - Last Claim
+0854,8,5,4,Special facility or hospital,Critical Access Hospital (CAH),85,Interim - Last Claim
+0954,9,5,4,Reserved for National Assignment,Intermediate Care - Level I,95,Interim - Last Claim
+0164,1,6,4,Hospital,Intermediate Care - Level II,16,Interim - Last Claim
+0264,2,6,4,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Interim - Last Claim
+0364,3,6,4,Home Health,Intermediate Care - Level II,36,Interim - Last Claim
+0464,4,6,4,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Interim - Last Claim
+0564,5,6,4,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Interim - Last Claim
+0664,6,6,4,Intermediate Care,Intermediate Care - Level II,66,Interim - Last Claim
+0764,7,6,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Interim - Last Claim
+0864,8,6,4,Special facility or hospital,Residential Facility,86,Interim - Last Claim
+0964,9,6,4,Reserved for National Assignment,Intermediate Care - Level II,96,Interim - Last Claim
+0174,1,7,4,Hospital,Subacute Inpatient,17,Interim - Last Claim
+0274,2,7,4,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Interim - Last Claim
+0374,3,7,4,Home Health,Subacute Inpatient,37,Interim - Last Claim
+0474,4,7,4,Religious Nonmedical (Hospital),Subacute Inpatient,47,Interim - Last Claim
+0574,5,7,4,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Interim - Last Claim
+0674,6,7,4,Intermediate Care,Subacute Inpatient,67,Interim - Last Claim
+0774,7,7,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Interim - Last Claim
+0874,8,7,4,Special facility or hospital,Reserved for National Assignment,87,Interim - Last Claim
+0974,9,7,4,Reserved for National Assignment,Subacute Inpatient,97,Interim - Last Claim
+0184,1,8,4,Hospital,Reserved for National Assignment,18,Interim - Last Claim
+0284,2,8,4,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Interim - Last Claim
+0384,3,8,4,Home Health,Reserved for National Assignment,38,Interim - Last Claim
+0484,4,8,4,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Interim - Last Claim
+0584,5,8,4,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Interim - Last Claim
+0684,6,8,4,Intermediate Care,Reserved for National Assignment,68,Interim - Last Claim
+0784,7,8,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Interim - Last Claim
+0884,8,8,4,Special facility or hospital,Reserved for National Assignment,88,Interim - Last Claim
+0984,9,8,4,Reserved for National Assignment,Reserved for National Assignment,98,Interim - Last Claim
+0194,1,9,4,Hospital,Reserved for National Assignment,19,Interim - Last Claim
+0294,2,9,4,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Interim - Last Claim
+0394,3,9,4,Home Health,Reserved for National Assignment,39,Interim - Last Claim
+0494,4,9,4,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Interim - Last Claim
+0594,5,9,4,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Interim - Last Claim
+0694,6,9,4,Intermediate Care,Reserved for National Assignment,69,Interim - Last Claim
+0794,7,9,4,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Interim - Last Claim
+0894,8,9,4,Special facility or hospital,Other,89,Interim - Last Claim
+0994,9,9,4,Reserved for National Assignment,Reserved for National Assignment,99,Interim - Last Claim
+0115,1,1,5,Hospital,Inpatient (Part A),11,Late Charge Only
+0215,2,1,5,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Late Charge Only
+0315,3,1,5,Home Health,Inpatient (Part A),31,Late Charge Only
+0415,4,1,5,Religious Nonmedical (Hospital),Inpatient (Part A),41,Late Charge Only
+0515,5,1,5,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Late Charge Only
+0615,6,1,5,Intermediate Care,Inpatient (Part A),61,Late Charge Only
+0715,7,1,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Late Charge Only
+0815,8,1,5,Special facility or hospital,Hospice (non-hospital based),81,Late Charge Only
+0915,9,1,5,Reserved for National Assignment,Inpatient (Part A),91,Late Charge Only
+0125,1,2,5,Hospital,Inpatient (Part B),12,Late Charge Only
+0225,2,2,5,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Late Charge Only
+0325,3,2,5,Home Health,Inpatient (Part B),32,Late Charge Only
+0425,4,2,5,Religious Nonmedical (Hospital),Inpatient (Part B),42,Late Charge Only
+0525,5,2,5,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Late Charge Only
+0625,6,2,5,Intermediate Care,Inpatient (Part B),62,Late Charge Only
+0725,7,2,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Late Charge Only
+0825,8,2,5,Special facility or hospital,Hospice (hospital based),82,Late Charge Only
+0925,9,2,5,Reserved for National Assignment,Inpatient (Part B),92,Late Charge Only
+0135,1,3,5,Hospital,Outpatient,13,Late Charge Only
+0235,2,3,5,Skilled Nursing Facility (SNF),Outpatient,23,Late Charge Only
+0335,3,3,5,Home Health,Outpatient,33,Late Charge Only
+0435,4,3,5,Religious Nonmedical (Hospital),Outpatient,43,Late Charge Only
+0535,5,3,5,Religious Nonmedical (Extended Care),Outpatient,53,Late Charge Only
+0635,6,3,5,Intermediate Care,Outpatient,63,Late Charge Only
+0735,7,3,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Late Charge Only
+0835,8,3,5,Special facility or hospital,ASC Services to Hospital Outpatients,83,Late Charge Only
+0935,9,3,5,Reserved for National Assignment,Outpatient,93,Late Charge Only
+0145,1,4,5,Hospital,Other (Part B),14,Late Charge Only
+0245,2,4,5,Skilled Nursing Facility (SNF),Other (Part B),24,Late Charge Only
+0345,3,4,5,Home Health,Other (Part B),34,Late Charge Only
+0445,4,4,5,Religious Nonmedical (Hospital),Other (Part B),44,Late Charge Only
+0545,5,4,5,Religious Nonmedical (Extended Care),Other (Part B),54,Late Charge Only
+0645,6,4,5,Intermediate Care,Other (Part B),64,Late Charge Only
+0745,7,4,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Late Charge Only
+0845,8,4,5,Special facility or hospital,Free Standing Birthing Center,84,Late Charge Only
+0945,9,4,5,Reserved for National Assignment,Other (Part B),94,Late Charge Only
+0155,1,5,5,Hospital,Intermediate Care - Level I,15,Late Charge Only
+0255,2,5,5,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Late Charge Only
+0355,3,5,5,Home Health,Intermediate Care - Level I,35,Late Charge Only
+0455,4,5,5,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Late Charge Only
+0555,5,5,5,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Late Charge Only
+0655,6,5,5,Intermediate Care,Intermediate Care - Level I,65,Late Charge Only
+0755,7,5,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Late Charge Only
+0855,8,5,5,Special facility or hospital,Critical Access Hospital (CAH),85,Late Charge Only
+0955,9,5,5,Reserved for National Assignment,Intermediate Care - Level I,95,Late Charge Only
+0165,1,6,5,Hospital,Intermediate Care - Level II,16,Late Charge Only
+0265,2,6,5,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Late Charge Only
+0365,3,6,5,Home Health,Intermediate Care - Level II,36,Late Charge Only
+0465,4,6,5,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Late Charge Only
+0565,5,6,5,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Late Charge Only
+0665,6,6,5,Intermediate Care,Intermediate Care - Level II,66,Late Charge Only
+0765,7,6,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Late Charge Only
+0865,8,6,5,Special facility or hospital,Residential Facility,86,Late Charge Only
+0965,9,6,5,Reserved for National Assignment,Intermediate Care - Level II,96,Late Charge Only
+0175,1,7,5,Hospital,Subacute Inpatient,17,Late Charge Only
+0275,2,7,5,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Late Charge Only
+0375,3,7,5,Home Health,Subacute Inpatient,37,Late Charge Only
+0475,4,7,5,Religious Nonmedical (Hospital),Subacute Inpatient,47,Late Charge Only
+0575,5,7,5,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Late Charge Only
+0675,6,7,5,Intermediate Care,Subacute Inpatient,67,Late Charge Only
+0775,7,7,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Late Charge Only
+0875,8,7,5,Special facility or hospital,Reserved for National Assignment,87,Late Charge Only
+0975,9,7,5,Reserved for National Assignment,Subacute Inpatient,97,Late Charge Only
+0185,1,8,5,Hospital,Reserved for National Assignment,18,Late Charge Only
+0285,2,8,5,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Late Charge Only
+0385,3,8,5,Home Health,Reserved for National Assignment,38,Late Charge Only
+0485,4,8,5,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Late Charge Only
+0585,5,8,5,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Late Charge Only
+0685,6,8,5,Intermediate Care,Reserved for National Assignment,68,Late Charge Only
+0785,7,8,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Late Charge Only
+0885,8,8,5,Special facility or hospital,Reserved for National Assignment,88,Late Charge Only
+0985,9,8,5,Reserved for National Assignment,Reserved for National Assignment,98,Late Charge Only
+0195,1,9,5,Hospital,Reserved for National Assignment,19,Late Charge Only
+0295,2,9,5,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Late Charge Only
+0395,3,9,5,Home Health,Reserved for National Assignment,39,Late Charge Only
+0495,4,9,5,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Late Charge Only
+0595,5,9,5,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Late Charge Only
+0695,6,9,5,Intermediate Care,Reserved for National Assignment,69,Late Charge Only
+0795,7,9,5,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Late Charge Only
+0895,8,9,5,Special facility or hospital,Other,89,Late Charge Only
+0995,9,9,5,Reserved for National Assignment,Reserved for National Assignment,99,Late Charge Only
+0117,1,1,7,Hospital,Inpatient (Part A),11,Replacement of Prior Claim
+0217,2,1,7,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Replacement of Prior Claim
+0317,3,1,7,Home Health,Inpatient (Part A),31,Replacement of Prior Claim
+0417,4,1,7,Religious Nonmedical (Hospital),Inpatient (Part A),41,Replacement of Prior Claim
+0517,5,1,7,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Replacement of Prior Claim
+0617,6,1,7,Intermediate Care,Inpatient (Part A),61,Replacement of Prior Claim
+0717,7,1,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Replacement of Prior Claim
+0817,8,1,7,Special facility or hospital,Hospice (non-hospital based),81,Replacement of Prior Claim
+0917,9,1,7,Reserved for National Assignment,Inpatient (Part A),91,Replacement of Prior Claim
+0127,1,2,7,Hospital,Inpatient (Part B),12,Replacement of Prior Claim
+0227,2,2,7,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Replacement of Prior Claim
+0327,3,2,7,Home Health,Inpatient (Part B),32,Replacement of Prior Claim
+0427,4,2,7,Religious Nonmedical (Hospital),Inpatient (Part B),42,Replacement of Prior Claim
+0527,5,2,7,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Replacement of Prior Claim
+0627,6,2,7,Intermediate Care,Inpatient (Part B),62,Replacement of Prior Claim
+0727,7,2,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Replacement of Prior Claim
+0827,8,2,7,Special facility or hospital,Hospice (hospital based),82,Replacement of Prior Claim
+0927,9,2,7,Reserved for National Assignment,Inpatient (Part B),92,Replacement of Prior Claim
+0137,1,3,7,Hospital,Outpatient,13,Replacement of Prior Claim
+0237,2,3,7,Skilled Nursing Facility (SNF),Outpatient,23,Replacement of Prior Claim
+0337,3,3,7,Home Health,Outpatient,33,Replacement of Prior Claim
+0437,4,3,7,Religious Nonmedical (Hospital),Outpatient,43,Replacement of Prior Claim
+0537,5,3,7,Religious Nonmedical (Extended Care),Outpatient,53,Replacement of Prior Claim
+0637,6,3,7,Intermediate Care,Outpatient,63,Replacement of Prior Claim
+0737,7,3,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Replacement of Prior Claim
+0837,8,3,7,Special facility or hospital,ASC Services to Hospital Outpatients,83,Replacement of Prior Claim
+0937,9,3,7,Reserved for National Assignment,Outpatient,93,Replacement of Prior Claim
+0147,1,4,7,Hospital,Other (Part B),14,Replacement of Prior Claim
+0247,2,4,7,Skilled Nursing Facility (SNF),Other (Part B),24,Replacement of Prior Claim
+0347,3,4,7,Home Health,Other (Part B),34,Replacement of Prior Claim
+0447,4,4,7,Religious Nonmedical (Hospital),Other (Part B),44,Replacement of Prior Claim
+0547,5,4,7,Religious Nonmedical (Extended Care),Other (Part B),54,Replacement of Prior Claim
+0647,6,4,7,Intermediate Care,Other (Part B),64,Replacement of Prior Claim
+0747,7,4,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Replacement of Prior Claim
+0847,8,4,7,Special facility or hospital,Free Standing Birthing Center,84,Replacement of Prior Claim
+0947,9,4,7,Reserved for National Assignment,Other (Part B),94,Replacement of Prior Claim
+0157,1,5,7,Hospital,Intermediate Care - Level I,15,Replacement of Prior Claim
+0257,2,5,7,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Replacement of Prior Claim
+0357,3,5,7,Home Health,Intermediate Care - Level I,35,Replacement of Prior Claim
+0457,4,5,7,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Replacement of Prior Claim
+0557,5,5,7,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Replacement of Prior Claim
+0657,6,5,7,Intermediate Care,Intermediate Care - Level I,65,Replacement of Prior Claim
+0757,7,5,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Replacement of Prior Claim
+0857,8,5,7,Special facility or hospital,Critical Access Hospital (CAH),85,Replacement of Prior Claim
+0957,9,5,7,Reserved for National Assignment,Intermediate Care - Level I,95,Replacement of Prior Claim
+0167,1,6,7,Hospital,Intermediate Care - Level II,16,Replacement of Prior Claim
+0267,2,6,7,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Replacement of Prior Claim
+0367,3,6,7,Home Health,Intermediate Care - Level II,36,Replacement of Prior Claim
+0467,4,6,7,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Replacement of Prior Claim
+0567,5,6,7,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Replacement of Prior Claim
+0667,6,6,7,Intermediate Care,Intermediate Care - Level II,66,Replacement of Prior Claim
+0767,7,6,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Replacement of Prior Claim
+0867,8,6,7,Special facility or hospital,Residential Facility,86,Replacement of Prior Claim
+0967,9,6,7,Reserved for National Assignment,Intermediate Care - Level II,96,Replacement of Prior Claim
+0177,1,7,7,Hospital,Subacute Inpatient,17,Replacement of Prior Claim
+0277,2,7,7,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Replacement of Prior Claim
+0377,3,7,7,Home Health,Subacute Inpatient,37,Replacement of Prior Claim
+0477,4,7,7,Religious Nonmedical (Hospital),Subacute Inpatient,47,Replacement of Prior Claim
+0577,5,7,7,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Replacement of Prior Claim
+0677,6,7,7,Intermediate Care,Subacute Inpatient,67,Replacement of Prior Claim
+0777,7,7,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Replacement of Prior Claim
+0877,8,7,7,Special facility or hospital,Reserved for National Assignment,87,Replacement of Prior Claim
+0977,9,7,7,Reserved for National Assignment,Subacute Inpatient,97,Replacement of Prior Claim
+0187,1,8,7,Hospital,Reserved for National Assignment,18,Replacement of Prior Claim
+0287,2,8,7,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Replacement of Prior Claim
+0387,3,8,7,Home Health,Reserved for National Assignment,38,Replacement of Prior Claim
+0487,4,8,7,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Replacement of Prior Claim
+0587,5,8,7,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Replacement of Prior Claim
+0687,6,8,7,Intermediate Care,Reserved for National Assignment,68,Replacement of Prior Claim
+0787,7,8,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Replacement of Prior Claim
+0887,8,8,7,Special facility or hospital,Reserved for National Assignment,88,Replacement of Prior Claim
+0987,9,8,7,Reserved for National Assignment,Reserved for National Assignment,98,Replacement of Prior Claim
+0197,1,9,7,Hospital,Reserved for National Assignment,19,Replacement of Prior Claim
+0297,2,9,7,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Replacement of Prior Claim
+0397,3,9,7,Home Health,Reserved for National Assignment,39,Replacement of Prior Claim
+0497,4,9,7,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Replacement of Prior Claim
+0597,5,9,7,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Replacement of Prior Claim
+0697,6,9,7,Intermediate Care,Reserved for National Assignment,69,Replacement of Prior Claim
+0797,7,9,7,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Replacement of Prior Claim
+0897,8,9,7,Special facility or hospital,Other,89,Replacement of Prior Claim
+0997,9,9,7,Reserved for National Assignment,Reserved for National Assignment,99,Replacement of Prior Claim
+0118,1,1,8,Hospital,Inpatient (Part A),11,Void/Cancel of Prior Claim
+0218,2,1,8,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Void/Cancel of Prior Claim
+0318,3,1,8,Home Health,Inpatient (Part A),31,Void/Cancel of Prior Claim
+0418,4,1,8,Religious Nonmedical (Hospital),Inpatient (Part A),41,Void/Cancel of Prior Claim
+0518,5,1,8,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Void/Cancel of Prior Claim
+0618,6,1,8,Intermediate Care,Inpatient (Part A),61,Void/Cancel of Prior Claim
+0718,7,1,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Void/Cancel of Prior Claim
+0818,8,1,8,Special facility or hospital,Hospice (non-hospital based),81,Void/Cancel of Prior Claim
+0918,9,1,8,Reserved for National Assignment,Inpatient (Part A),91,Void/Cancel of Prior Claim
+0128,1,2,8,Hospital,Inpatient (Part B),12,Void/Cancel of Prior Claim
+0228,2,2,8,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Void/Cancel of Prior Claim
+0328,3,2,8,Home Health,Inpatient (Part B),32,Void/Cancel of Prior Claim
+0428,4,2,8,Religious Nonmedical (Hospital),Inpatient (Part B),42,Void/Cancel of Prior Claim
+0528,5,2,8,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Void/Cancel of Prior Claim
+0628,6,2,8,Intermediate Care,Inpatient (Part B),62,Void/Cancel of Prior Claim
+0728,7,2,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Void/Cancel of Prior Claim
+0828,8,2,8,Special facility or hospital,Hospice (hospital based),82,Void/Cancel of Prior Claim
+0928,9,2,8,Reserved for National Assignment,Inpatient (Part B),92,Void/Cancel of Prior Claim
+0138,1,3,8,Hospital,Outpatient,13,Void/Cancel of Prior Claim
+0238,2,3,8,Skilled Nursing Facility (SNF),Outpatient,23,Void/Cancel of Prior Claim
+0338,3,3,8,Home Health,Outpatient,33,Void/Cancel of Prior Claim
+0438,4,3,8,Religious Nonmedical (Hospital),Outpatient,43,Void/Cancel of Prior Claim
+0538,5,3,8,Religious Nonmedical (Extended Care),Outpatient,53,Void/Cancel of Prior Claim
+0638,6,3,8,Intermediate Care,Outpatient,63,Void/Cancel of Prior Claim
+0738,7,3,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Void/Cancel of Prior Claim
+0838,8,3,8,Special facility or hospital,ASC Services to Hospital Outpatients,83,Void/Cancel of Prior Claim
+0938,9,3,8,Reserved for National Assignment,Outpatient,93,Void/Cancel of Prior Claim
+0148,1,4,8,Hospital,Other (Part B),14,Void/Cancel of Prior Claim
+0248,2,4,8,Skilled Nursing Facility (SNF),Other (Part B),24,Void/Cancel of Prior Claim
+0348,3,4,8,Home Health,Other (Part B),34,Void/Cancel of Prior Claim
+0448,4,4,8,Religious Nonmedical (Hospital),Other (Part B),44,Void/Cancel of Prior Claim
+0548,5,4,8,Religious Nonmedical (Extended Care),Other (Part B),54,Void/Cancel of Prior Claim
+0648,6,4,8,Intermediate Care,Other (Part B),64,Void/Cancel of Prior Claim
+0748,7,4,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Void/Cancel of Prior Claim
+0848,8,4,8,Special facility or hospital,Free Standing Birthing Center,84,Void/Cancel of Prior Claim
+0948,9,4,8,Reserved for National Assignment,Other (Part B),94,Void/Cancel of Prior Claim
+0158,1,5,8,Hospital,Intermediate Care - Level I,15,Void/Cancel of Prior Claim
+0258,2,5,8,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Void/Cancel of Prior Claim
+0358,3,5,8,Home Health,Intermediate Care - Level I,35,Void/Cancel of Prior Claim
+0458,4,5,8,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Void/Cancel of Prior Claim
+0558,5,5,8,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Void/Cancel of Prior Claim
+0658,6,5,8,Intermediate Care,Intermediate Care - Level I,65,Void/Cancel of Prior Claim
+0758,7,5,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Void/Cancel of Prior Claim
+0858,8,5,8,Special facility or hospital,Critical Access Hospital (CAH),85,Void/Cancel of Prior Claim
+0958,9,5,8,Reserved for National Assignment,Intermediate Care - Level I,95,Void/Cancel of Prior Claim
+0168,1,6,8,Hospital,Intermediate Care - Level II,16,Void/Cancel of Prior Claim
+0268,2,6,8,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Void/Cancel of Prior Claim
+0368,3,6,8,Home Health,Intermediate Care - Level II,36,Void/Cancel of Prior Claim
+0468,4,6,8,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Void/Cancel of Prior Claim
+0568,5,6,8,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Void/Cancel of Prior Claim
+0668,6,6,8,Intermediate Care,Intermediate Care - Level II,66,Void/Cancel of Prior Claim
+0768,7,6,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Void/Cancel of Prior Claim
+0868,8,6,8,Special facility or hospital,Residential Facility,86,Void/Cancel of Prior Claim
+0968,9,6,8,Reserved for National Assignment,Intermediate Care - Level II,96,Void/Cancel of Prior Claim
+0178,1,7,8,Hospital,Subacute Inpatient,17,Void/Cancel of Prior Claim
+0278,2,7,8,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Void/Cancel of Prior Claim
+0378,3,7,8,Home Health,Subacute Inpatient,37,Void/Cancel of Prior Claim
+0478,4,7,8,Religious Nonmedical (Hospital),Subacute Inpatient,47,Void/Cancel of Prior Claim
+0578,5,7,8,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Void/Cancel of Prior Claim
+0678,6,7,8,Intermediate Care,Subacute Inpatient,67,Void/Cancel of Prior Claim
+0778,7,7,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Void/Cancel of Prior Claim
+0878,8,7,8,Special facility or hospital,Reserved for National Assignment,87,Void/Cancel of Prior Claim
+0978,9,7,8,Reserved for National Assignment,Subacute Inpatient,97,Void/Cancel of Prior Claim
+0188,1,8,8,Hospital,Reserved for National Assignment,18,Void/Cancel of Prior Claim
+0288,2,8,8,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Void/Cancel of Prior Claim
+0388,3,8,8,Home Health,Reserved for National Assignment,38,Void/Cancel of Prior Claim
+0488,4,8,8,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Void/Cancel of Prior Claim
+0588,5,8,8,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Void/Cancel of Prior Claim
+0688,6,8,8,Intermediate Care,Reserved for National Assignment,68,Void/Cancel of Prior Claim
+0788,7,8,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Void/Cancel of Prior Claim
+0888,8,8,8,Special facility or hospital,Reserved for National Assignment,88,Void/Cancel of Prior Claim
+0988,9,8,8,Reserved for National Assignment,Reserved for National Assignment,98,Void/Cancel of Prior Claim
+0198,1,9,8,Hospital,Reserved for National Assignment,19,Void/Cancel of Prior Claim
+0298,2,9,8,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Void/Cancel of Prior Claim
+0398,3,9,8,Home Health,Reserved for National Assignment,39,Void/Cancel of Prior Claim
+0498,4,9,8,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Void/Cancel of Prior Claim
+0598,5,9,8,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Void/Cancel of Prior Claim
+0698,6,9,8,Intermediate Care,Reserved for National Assignment,69,Void/Cancel of Prior Claim
+0798,7,9,8,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Void/Cancel of Prior Claim
+0898,8,9,8,Special facility or hospital,Other,89,Void/Cancel of Prior Claim
+0998,9,9,8,Reserved for National Assignment,Reserved for National Assignment,99,Void/Cancel of Prior Claim
+0119,1,1,9,Hospital,Inpatient (Part A),11,Final claim for a Home Health PPS Episode
+0219,2,1,9,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Final claim for a Home Health PPS Episode
+0319,3,1,9,Home Health,Inpatient (Part A),31,Final claim for a Home Health PPS Episode
+0419,4,1,9,Religious Nonmedical (Hospital),Inpatient (Part A),41,Final claim for a Home Health PPS Episode
+0519,5,1,9,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Final claim for a Home Health PPS Episode
+0619,6,1,9,Intermediate Care,Inpatient (Part A),61,Final claim for a Home Health PPS Episode
+0719,7,1,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Final claim for a Home Health PPS Episode
+0819,8,1,9,Special facility or hospital,Hospice (non-hospital based),81,Final claim for a Home Health PPS Episode
+0919,9,1,9,Reserved for National Assignment,Inpatient (Part A),91,Final claim for a Home Health PPS Episode
+0129,1,2,9,Hospital,Inpatient (Part B),12,Final claim for a Home Health PPS Episode
+0229,2,2,9,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Final claim for a Home Health PPS Episode
+0329,3,2,9,Home Health,Inpatient (Part B),32,Final claim for a Home Health PPS Episode
+0429,4,2,9,Religious Nonmedical (Hospital),Inpatient (Part B),42,Final claim for a Home Health PPS Episode
+0529,5,2,9,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Final claim for a Home Health PPS Episode
+0629,6,2,9,Intermediate Care,Inpatient (Part B),62,Final claim for a Home Health PPS Episode
+0729,7,2,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Final claim for a Home Health PPS Episode
+0829,8,2,9,Special facility or hospital,Hospice (hospital based),82,Final claim for a Home Health PPS Episode
+0929,9,2,9,Reserved for National Assignment,Inpatient (Part B),92,Final claim for a Home Health PPS Episode
+0139,1,3,9,Hospital,Outpatient,13,Final claim for a Home Health PPS Episode
+0239,2,3,9,Skilled Nursing Facility (SNF),Outpatient,23,Final claim for a Home Health PPS Episode
+0339,3,3,9,Home Health,Outpatient,33,Final claim for a Home Health PPS Episode
+0439,4,3,9,Religious Nonmedical (Hospital),Outpatient,43,Final claim for a Home Health PPS Episode
+0539,5,3,9,Religious Nonmedical (Extended Care),Outpatient,53,Final claim for a Home Health PPS Episode
+0639,6,3,9,Intermediate Care,Outpatient,63,Final claim for a Home Health PPS Episode
+0739,7,3,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Final claim for a Home Health PPS Episode
+0839,8,3,9,Special facility or hospital,ASC Services to Hospital Outpatients,83,Final claim for a Home Health PPS Episode
+0939,9,3,9,Reserved for National Assignment,Outpatient,93,Final claim for a Home Health PPS Episode
+0149,1,4,9,Hospital,Other (Part B),14,Final claim for a Home Health PPS Episode
+0249,2,4,9,Skilled Nursing Facility (SNF),Other (Part B),24,Final claim for a Home Health PPS Episode
+0349,3,4,9,Home Health,Other (Part B),34,Final claim for a Home Health PPS Episode
+0449,4,4,9,Religious Nonmedical (Hospital),Other (Part B),44,Final claim for a Home Health PPS Episode
+0549,5,4,9,Religious Nonmedical (Extended Care),Other (Part B),54,Final claim for a Home Health PPS Episode
+0649,6,4,9,Intermediate Care,Other (Part B),64,Final claim for a Home Health PPS Episode
+0749,7,4,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Final claim for a Home Health PPS Episode
+0849,8,4,9,Special facility or hospital,Free Standing Birthing Center,84,Final claim for a Home Health PPS Episode
+0949,9,4,9,Reserved for National Assignment,Other (Part B),94,Final claim for a Home Health PPS Episode
+0159,1,5,9,Hospital,Intermediate Care - Level I,15,Final claim for a Home Health PPS Episode
+0259,2,5,9,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Final claim for a Home Health PPS Episode
+0359,3,5,9,Home Health,Intermediate Care - Level I,35,Final claim for a Home Health PPS Episode
+0459,4,5,9,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Final claim for a Home Health PPS Episode
+0559,5,5,9,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Final claim for a Home Health PPS Episode
+0659,6,5,9,Intermediate Care,Intermediate Care - Level I,65,Final claim for a Home Health PPS Episode
+0759,7,5,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Final claim for a Home Health PPS Episode
+0859,8,5,9,Special facility or hospital,Critical Access Hospital (CAH),85,Final claim for a Home Health PPS Episode
+0959,9,5,9,Reserved for National Assignment,Intermediate Care - Level I,95,Final claim for a Home Health PPS Episode
+0169,1,6,9,Hospital,Intermediate Care - Level II,16,Final claim for a Home Health PPS Episode
+0269,2,6,9,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Final claim for a Home Health PPS Episode
+0369,3,6,9,Home Health,Intermediate Care - Level II,36,Final claim for a Home Health PPS Episode
+0469,4,6,9,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Final claim for a Home Health PPS Episode
+0569,5,6,9,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Final claim for a Home Health PPS Episode
+0669,6,6,9,Intermediate Care,Intermediate Care - Level II,66,Final claim for a Home Health PPS Episode
+0769,7,6,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Final claim for a Home Health PPS Episode
+0869,8,6,9,Special facility or hospital,Residential Facility,86,Final claim for a Home Health PPS Episode
+0969,9,6,9,Reserved for National Assignment,Intermediate Care - Level II,96,Final claim for a Home Health PPS Episode
+0179,1,7,9,Hospital,Subacute Inpatient,17,Final claim for a Home Health PPS Episode
+0279,2,7,9,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Final claim for a Home Health PPS Episode
+0379,3,7,9,Home Health,Subacute Inpatient,37,Final claim for a Home Health PPS Episode
+0479,4,7,9,Religious Nonmedical (Hospital),Subacute Inpatient,47,Final claim for a Home Health PPS Episode
+0579,5,7,9,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Final claim for a Home Health PPS Episode
+0679,6,7,9,Intermediate Care,Subacute Inpatient,67,Final claim for a Home Health PPS Episode
+0779,7,7,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Final claim for a Home Health PPS Episode
+0879,8,7,9,Special facility or hospital,Reserved for National Assignment,87,Final claim for a Home Health PPS Episode
+0979,9,7,9,Reserved for National Assignment,Subacute Inpatient,97,Final claim for a Home Health PPS Episode
+0189,1,8,9,Hospital,Reserved for National Assignment,18,Final claim for a Home Health PPS Episode
+0289,2,8,9,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Final claim for a Home Health PPS Episode
+0389,3,8,9,Home Health,Reserved for National Assignment,38,Final claim for a Home Health PPS Episode
+0489,4,8,9,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Final claim for a Home Health PPS Episode
+0589,5,8,9,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Final claim for a Home Health PPS Episode
+0689,6,8,9,Intermediate Care,Reserved for National Assignment,68,Final claim for a Home Health PPS Episode
+0789,7,8,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Final claim for a Home Health PPS Episode
+0889,8,8,9,Special facility or hospital,Reserved for National Assignment,88,Final claim for a Home Health PPS Episode
+0989,9,8,9,Reserved for National Assignment,Reserved for National Assignment,98,Final claim for a Home Health PPS Episode
+0199,1,9,9,Hospital,Reserved for National Assignment,19,Final claim for a Home Health PPS Episode
+0299,2,9,9,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Final claim for a Home Health PPS Episode
+0399,3,9,9,Home Health,Reserved for National Assignment,39,Final claim for a Home Health PPS Episode
+0499,4,9,9,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Final claim for a Home Health PPS Episode
+0599,5,9,9,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Final claim for a Home Health PPS Episode
+0699,6,9,9,Intermediate Care,Reserved for National Assignment,69,Final claim for a Home Health PPS Episode
+0799,7,9,9,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Final claim for a Home Health PPS Episode
+0899,8,9,9,Special facility or hospital,Other,89,Final claim for a Home Health PPS Episode
+0999,9,9,9,Reserved for National Assignment,Reserved for National Assignment,99,Final claim for a Home Health PPS Episode
+011A,1,1,A,Hospital,Inpatient (Part A),11,Admission/Election Notice for Hospice
+021A,2,1,A,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Admission/Election Notice for Hospice
+031A,3,1,A,Home Health,Inpatient (Part A),31,Admission/Election Notice for Hospice
+041A,4,1,A,Religious Nonmedical (Hospital),Inpatient (Part A),41,Admission/Election Notice for Hospice
+051A,5,1,A,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Admission/Election Notice for Hospice
+061A,6,1,A,Intermediate Care,Inpatient (Part A),61,Admission/Election Notice for Hospice
+071A,7,1,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Admission/Election Notice for Hospice
+081A,8,1,A,Special facility or hospital,Hospice (non-hospital based),81,Admission/Election Notice for Hospice
+091A,9,1,A,Reserved for National Assignment,Inpatient (Part A),91,Admission/Election Notice for Hospice
+012A,1,2,A,Hospital,Inpatient (Part B),12,Admission/Election Notice for Hospice
+022A,2,2,A,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Admission/Election Notice for Hospice
+032A,3,2,A,Home Health,Inpatient (Part B),32,Admission/Election Notice for Hospice
+042A,4,2,A,Religious Nonmedical (Hospital),Inpatient (Part B),42,Admission/Election Notice for Hospice
+052A,5,2,A,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Admission/Election Notice for Hospice
+062A,6,2,A,Intermediate Care,Inpatient (Part B),62,Admission/Election Notice for Hospice
+072A,7,2,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Admission/Election Notice for Hospice
+082A,8,2,A,Special facility or hospital,Hospice (hospital based),82,Admission/Election Notice for Hospice
+092A,9,2,A,Reserved for National Assignment,Inpatient (Part B),92,Admission/Election Notice for Hospice
+013A,1,3,A,Hospital,Outpatient,13,Admission/Election Notice for Hospice
+023A,2,3,A,Skilled Nursing Facility (SNF),Outpatient,23,Admission/Election Notice for Hospice
+033A,3,3,A,Home Health,Outpatient,33,Admission/Election Notice for Hospice
+043A,4,3,A,Religious Nonmedical (Hospital),Outpatient,43,Admission/Election Notice for Hospice
+053A,5,3,A,Religious Nonmedical (Extended Care),Outpatient,53,Admission/Election Notice for Hospice
+063A,6,3,A,Intermediate Care,Outpatient,63,Admission/Election Notice for Hospice
+073A,7,3,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Admission/Election Notice for Hospice
+083A,8,3,A,Special facility or hospital,ASC Services to Hospital Outpatients,83,Admission/Election Notice for Hospice
+093A,9,3,A,Reserved for National Assignment,Outpatient,93,Admission/Election Notice for Hospice
+014A,1,4,A,Hospital,Other (Part B),14,Admission/Election Notice for Hospice
+024A,2,4,A,Skilled Nursing Facility (SNF),Other (Part B),24,Admission/Election Notice for Hospice
+034A,3,4,A,Home Health,Other (Part B),34,Admission/Election Notice for Hospice
+044A,4,4,A,Religious Nonmedical (Hospital),Other (Part B),44,Admission/Election Notice for Hospice
+054A,5,4,A,Religious Nonmedical (Extended Care),Other (Part B),54,Admission/Election Notice for Hospice
+064A,6,4,A,Intermediate Care,Other (Part B),64,Admission/Election Notice for Hospice
+074A,7,4,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Admission/Election Notice for Hospice
+084A,8,4,A,Special facility or hospital,Free Standing Birthing Center,84,Admission/Election Notice for Hospice
+094A,9,4,A,Reserved for National Assignment,Other (Part B),94,Admission/Election Notice for Hospice
+015A,1,5,A,Hospital,Intermediate Care - Level I,15,Admission/Election Notice for Hospice
+025A,2,5,A,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Admission/Election Notice for Hospice
+035A,3,5,A,Home Health,Intermediate Care - Level I,35,Admission/Election Notice for Hospice
+045A,4,5,A,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Admission/Election Notice for Hospice
+055A,5,5,A,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Admission/Election Notice for Hospice
+065A,6,5,A,Intermediate Care,Intermediate Care - Level I,65,Admission/Election Notice for Hospice
+075A,7,5,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Admission/Election Notice for Hospice
+085A,8,5,A,Special facility or hospital,Critical Access Hospital (CAH),85,Admission/Election Notice for Hospice
+095A,9,5,A,Reserved for National Assignment,Intermediate Care - Level I,95,Admission/Election Notice for Hospice
+016A,1,6,A,Hospital,Intermediate Care - Level II,16,Admission/Election Notice for Hospice
+026A,2,6,A,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Admission/Election Notice for Hospice
+036A,3,6,A,Home Health,Intermediate Care - Level II,36,Admission/Election Notice for Hospice
+046A,4,6,A,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Admission/Election Notice for Hospice
+056A,5,6,A,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Admission/Election Notice for Hospice
+066A,6,6,A,Intermediate Care,Intermediate Care - Level II,66,Admission/Election Notice for Hospice
+076A,7,6,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Admission/Election Notice for Hospice
+086A,8,6,A,Special facility or hospital,Residential Facility,86,Admission/Election Notice for Hospice
+096A,9,6,A,Reserved for National Assignment,Intermediate Care - Level II,96,Admission/Election Notice for Hospice
+017A,1,7,A,Hospital,Subacute Inpatient,17,Admission/Election Notice for Hospice
+027A,2,7,A,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Admission/Election Notice for Hospice
+037A,3,7,A,Home Health,Subacute Inpatient,37,Admission/Election Notice for Hospice
+047A,4,7,A,Religious Nonmedical (Hospital),Subacute Inpatient,47,Admission/Election Notice for Hospice
+057A,5,7,A,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Admission/Election Notice for Hospice
+067A,6,7,A,Intermediate Care,Subacute Inpatient,67,Admission/Election Notice for Hospice
+077A,7,7,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Admission/Election Notice for Hospice
+087A,8,7,A,Special facility or hospital,Reserved for National Assignment,87,Admission/Election Notice for Hospice
+097A,9,7,A,Reserved for National Assignment,Subacute Inpatient,97,Admission/Election Notice for Hospice
+018A,1,8,A,Hospital,Reserved for National Assignment,18,Admission/Election Notice for Hospice
+028A,2,8,A,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Admission/Election Notice for Hospice
+038A,3,8,A,Home Health,Reserved for National Assignment,38,Admission/Election Notice for Hospice
+048A,4,8,A,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Admission/Election Notice for Hospice
+058A,5,8,A,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Admission/Election Notice for Hospice
+068A,6,8,A,Intermediate Care,Reserved for National Assignment,68,Admission/Election Notice for Hospice
+078A,7,8,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Admission/Election Notice for Hospice
+088A,8,8,A,Special facility or hospital,Reserved for National Assignment,88,Admission/Election Notice for Hospice
+098A,9,8,A,Reserved for National Assignment,Reserved for National Assignment,98,Admission/Election Notice for Hospice
+019A,1,9,A,Hospital,Reserved for National Assignment,19,Admission/Election Notice for Hospice
+029A,2,9,A,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Admission/Election Notice for Hospice
+039A,3,9,A,Home Health,Reserved for National Assignment,39,Admission/Election Notice for Hospice
+049A,4,9,A,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Admission/Election Notice for Hospice
+059A,5,9,A,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Admission/Election Notice for Hospice
+069A,6,9,A,Intermediate Care,Reserved for National Assignment,69,Admission/Election Notice for Hospice
+079A,7,9,A,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Admission/Election Notice for Hospice
+089A,8,9,A,Special facility or hospital,Other,89,Admission/Election Notice for Hospice
+099A,9,9,A,Reserved for National Assignment,Reserved for National Assignment,99,Admission/Election Notice for Hospice
+011B,1,1,B,Hospital,Inpatient (Part A),11,Hospice Termination/ Revocation Notice
+021B,2,1,B,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Hospice Termination/ Revocation Notice
+031B,3,1,B,Home Health,Inpatient (Part A),31,Hospice Termination/ Revocation Notice
+041B,4,1,B,Religious Nonmedical (Hospital),Inpatient (Part A),41,Hospice Termination/ Revocation Notice
+051B,5,1,B,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Hospice Termination/ Revocation Notice
+061B,6,1,B,Intermediate Care,Inpatient (Part A),61,Hospice Termination/ Revocation Notice
+071B,7,1,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Hospice Termination/ Revocation Notice
+081B,8,1,B,Special facility or hospital,Hospice (non-hospital based),81,Hospice Termination/ Revocation Notice
+091B,9,1,B,Reserved for National Assignment,Inpatient (Part A),91,Hospice Termination/ Revocation Notice
+012B,1,2,B,Hospital,Inpatient (Part B),12,Hospice Termination/ Revocation Notice
+022B,2,2,B,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Hospice Termination/ Revocation Notice
+032B,3,2,B,Home Health,Inpatient (Part B),32,Hospice Termination/ Revocation Notice
+042B,4,2,B,Religious Nonmedical (Hospital),Inpatient (Part B),42,Hospice Termination/ Revocation Notice
+052B,5,2,B,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Hospice Termination/ Revocation Notice
+062B,6,2,B,Intermediate Care,Inpatient (Part B),62,Hospice Termination/ Revocation Notice
+072B,7,2,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Hospice Termination/ Revocation Notice
+082B,8,2,B,Special facility or hospital,Hospice (hospital based),82,Hospice Termination/ Revocation Notice
+092B,9,2,B,Reserved for National Assignment,Inpatient (Part B),92,Hospice Termination/ Revocation Notice
+013B,1,3,B,Hospital,Outpatient,13,Hospice Termination/ Revocation Notice
+023B,2,3,B,Skilled Nursing Facility (SNF),Outpatient,23,Hospice Termination/ Revocation Notice
+033B,3,3,B,Home Health,Outpatient,33,Hospice Termination/ Revocation Notice
+043B,4,3,B,Religious Nonmedical (Hospital),Outpatient,43,Hospice Termination/ Revocation Notice
+053B,5,3,B,Religious Nonmedical (Extended Care),Outpatient,53,Hospice Termination/ Revocation Notice
+063B,6,3,B,Intermediate Care,Outpatient,63,Hospice Termination/ Revocation Notice
+073B,7,3,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Hospice Termination/ Revocation Notice
+083B,8,3,B,Special facility or hospital,ASC Services to Hospital Outpatients,83,Hospice Termination/ Revocation Notice
+093B,9,3,B,Reserved for National Assignment,Outpatient,93,Hospice Termination/ Revocation Notice
+014B,1,4,B,Hospital,Other (Part B),14,Hospice Termination/ Revocation Notice
+024B,2,4,B,Skilled Nursing Facility (SNF),Other (Part B),24,Hospice Termination/ Revocation Notice
+034B,3,4,B,Home Health,Other (Part B),34,Hospice Termination/ Revocation Notice
+044B,4,4,B,Religious Nonmedical (Hospital),Other (Part B),44,Hospice Termination/ Revocation Notice
+054B,5,4,B,Religious Nonmedical (Extended Care),Other (Part B),54,Hospice Termination/ Revocation Notice
+064B,6,4,B,Intermediate Care,Other (Part B),64,Hospice Termination/ Revocation Notice
+074B,7,4,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Hospice Termination/ Revocation Notice
+084B,8,4,B,Special facility or hospital,Free Standing Birthing Center,84,Hospice Termination/ Revocation Notice
+094B,9,4,B,Reserved for National Assignment,Other (Part B),94,Hospice Termination/ Revocation Notice
+015B,1,5,B,Hospital,Intermediate Care - Level I,15,Hospice Termination/ Revocation Notice
+025B,2,5,B,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Hospice Termination/ Revocation Notice
+035B,3,5,B,Home Health,Intermediate Care - Level I,35,Hospice Termination/ Revocation Notice
+045B,4,5,B,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Hospice Termination/ Revocation Notice
+055B,5,5,B,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Hospice Termination/ Revocation Notice
+065B,6,5,B,Intermediate Care,Intermediate Care - Level I,65,Hospice Termination/ Revocation Notice
+075B,7,5,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Hospice Termination/ Revocation Notice
+085B,8,5,B,Special facility or hospital,Critical Access Hospital (CAH),85,Hospice Termination/ Revocation Notice
+095B,9,5,B,Reserved for National Assignment,Intermediate Care - Level I,95,Hospice Termination/ Revocation Notice
+016B,1,6,B,Hospital,Intermediate Care - Level II,16,Hospice Termination/ Revocation Notice
+026B,2,6,B,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Hospice Termination/ Revocation Notice
+036B,3,6,B,Home Health,Intermediate Care - Level II,36,Hospice Termination/ Revocation Notice
+046B,4,6,B,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Hospice Termination/ Revocation Notice
+056B,5,6,B,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Hospice Termination/ Revocation Notice
+066B,6,6,B,Intermediate Care,Intermediate Care - Level II,66,Hospice Termination/ Revocation Notice
+076B,7,6,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Hospice Termination/ Revocation Notice
+086B,8,6,B,Special facility or hospital,Residential Facility,86,Hospice Termination/ Revocation Notice
+096B,9,6,B,Reserved for National Assignment,Intermediate Care - Level II,96,Hospice Termination/ Revocation Notice
+017B,1,7,B,Hospital,Subacute Inpatient,17,Hospice Termination/ Revocation Notice
+027B,2,7,B,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Hospice Termination/ Revocation Notice
+037B,3,7,B,Home Health,Subacute Inpatient,37,Hospice Termination/ Revocation Notice
+047B,4,7,B,Religious Nonmedical (Hospital),Subacute Inpatient,47,Hospice Termination/ Revocation Notice
+057B,5,7,B,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Hospice Termination/ Revocation Notice
+067B,6,7,B,Intermediate Care,Subacute Inpatient,67,Hospice Termination/ Revocation Notice
+077B,7,7,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Hospice Termination/ Revocation Notice
+087B,8,7,B,Special facility or hospital,Reserved for National Assignment,87,Hospice Termination/ Revocation Notice
+097B,9,7,B,Reserved for National Assignment,Subacute Inpatient,97,Hospice Termination/ Revocation Notice
+018B,1,8,B,Hospital,Reserved for National Assignment,18,Hospice Termination/ Revocation Notice
+028B,2,8,B,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Hospice Termination/ Revocation Notice
+038B,3,8,B,Home Health,Reserved for National Assignment,38,Hospice Termination/ Revocation Notice
+048B,4,8,B,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Hospice Termination/ Revocation Notice
+058B,5,8,B,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Hospice Termination/ Revocation Notice
+068B,6,8,B,Intermediate Care,Reserved for National Assignment,68,Hospice Termination/ Revocation Notice
+078B,7,8,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Hospice Termination/ Revocation Notice
+088B,8,8,B,Special facility or hospital,Reserved for National Assignment,88,Hospice Termination/ Revocation Notice
+098B,9,8,B,Reserved for National Assignment,Reserved for National Assignment,98,Hospice Termination/ Revocation Notice
+019B,1,9,B,Hospital,Reserved for National Assignment,19,Hospice Termination/ Revocation Notice
+029B,2,9,B,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Hospice Termination/ Revocation Notice
+039B,3,9,B,Home Health,Reserved for National Assignment,39,Hospice Termination/ Revocation Notice
+049B,4,9,B,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Hospice Termination/ Revocation Notice
+059B,5,9,B,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Hospice Termination/ Revocation Notice
+069B,6,9,B,Intermediate Care,Reserved for National Assignment,69,Hospice Termination/ Revocation Notice
+079B,7,9,B,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Hospice Termination/ Revocation Notice
+089B,8,9,B,Special facility or hospital,Other,89,Hospice Termination/ Revocation Notice
+099B,9,9,B,Reserved for National Assignment,Reserved for National Assignment,99,Hospice Termination/ Revocation Notice
+011C,1,1,C,Hospital,Inpatient (Part A),11,Hospice Change of Provider Notice
+021C,2,1,C,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Hospice Change of Provider Notice
+031C,3,1,C,Home Health,Inpatient (Part A),31,Hospice Change of Provider Notice
+041C,4,1,C,Religious Nonmedical (Hospital),Inpatient (Part A),41,Hospice Change of Provider Notice
+051C,5,1,C,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Hospice Change of Provider Notice
+061C,6,1,C,Intermediate Care,Inpatient (Part A),61,Hospice Change of Provider Notice
+071C,7,1,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Hospice Change of Provider Notice
+081C,8,1,C,Special facility or hospital,Hospice (non-hospital based),81,Hospice Change of Provider Notice
+091C,9,1,C,Reserved for National Assignment,Inpatient (Part A),91,Hospice Change of Provider Notice
+012C,1,2,C,Hospital,Inpatient (Part B),12,Hospice Change of Provider Notice
+022C,2,2,C,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Hospice Change of Provider Notice
+032C,3,2,C,Home Health,Inpatient (Part B),32,Hospice Change of Provider Notice
+042C,4,2,C,Religious Nonmedical (Hospital),Inpatient (Part B),42,Hospice Change of Provider Notice
+052C,5,2,C,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Hospice Change of Provider Notice
+062C,6,2,C,Intermediate Care,Inpatient (Part B),62,Hospice Change of Provider Notice
+072C,7,2,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Hospice Change of Provider Notice
+082C,8,2,C,Special facility or hospital,Hospice (hospital based),82,Hospice Change of Provider Notice
+092C,9,2,C,Reserved for National Assignment,Inpatient (Part B),92,Hospice Change of Provider Notice
+013C,1,3,C,Hospital,Outpatient,13,Hospice Change of Provider Notice
+023C,2,3,C,Skilled Nursing Facility (SNF),Outpatient,23,Hospice Change of Provider Notice
+033C,3,3,C,Home Health,Outpatient,33,Hospice Change of Provider Notice
+043C,4,3,C,Religious Nonmedical (Hospital),Outpatient,43,Hospice Change of Provider Notice
+053C,5,3,C,Religious Nonmedical (Extended Care),Outpatient,53,Hospice Change of Provider Notice
+063C,6,3,C,Intermediate Care,Outpatient,63,Hospice Change of Provider Notice
+073C,7,3,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Hospice Change of Provider Notice
+083C,8,3,C,Special facility or hospital,ASC Services to Hospital Outpatients,83,Hospice Change of Provider Notice
+093C,9,3,C,Reserved for National Assignment,Outpatient,93,Hospice Change of Provider Notice
+014C,1,4,C,Hospital,Other (Part B),14,Hospice Change of Provider Notice
+024C,2,4,C,Skilled Nursing Facility (SNF),Other (Part B),24,Hospice Change of Provider Notice
+034C,3,4,C,Home Health,Other (Part B),34,Hospice Change of Provider Notice
+044C,4,4,C,Religious Nonmedical (Hospital),Other (Part B),44,Hospice Change of Provider Notice
+054C,5,4,C,Religious Nonmedical (Extended Care),Other (Part B),54,Hospice Change of Provider Notice
+064C,6,4,C,Intermediate Care,Other (Part B),64,Hospice Change of Provider Notice
+074C,7,4,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Hospice Change of Provider Notice
+084C,8,4,C,Special facility or hospital,Free Standing Birthing Center,84,Hospice Change of Provider Notice
+094C,9,4,C,Reserved for National Assignment,Other (Part B),94,Hospice Change of Provider Notice
+015C,1,5,C,Hospital,Intermediate Care - Level I,15,Hospice Change of Provider Notice
+025C,2,5,C,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Hospice Change of Provider Notice
+035C,3,5,C,Home Health,Intermediate Care - Level I,35,Hospice Change of Provider Notice
+045C,4,5,C,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Hospice Change of Provider Notice
+055C,5,5,C,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Hospice Change of Provider Notice
+065C,6,5,C,Intermediate Care,Intermediate Care - Level I,65,Hospice Change of Provider Notice
+075C,7,5,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Hospice Change of Provider Notice
+085C,8,5,C,Special facility or hospital,Critical Access Hospital (CAH),85,Hospice Change of Provider Notice
+095C,9,5,C,Reserved for National Assignment,Intermediate Care - Level I,95,Hospice Change of Provider Notice
+016C,1,6,C,Hospital,Intermediate Care - Level II,16,Hospice Change of Provider Notice
+026C,2,6,C,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Hospice Change of Provider Notice
+036C,3,6,C,Home Health,Intermediate Care - Level II,36,Hospice Change of Provider Notice
+046C,4,6,C,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Hospice Change of Provider Notice
+056C,5,6,C,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Hospice Change of Provider Notice
+066C,6,6,C,Intermediate Care,Intermediate Care - Level II,66,Hospice Change of Provider Notice
+076C,7,6,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Hospice Change of Provider Notice
+086C,8,6,C,Special facility or hospital,Residential Facility,86,Hospice Change of Provider Notice
+096C,9,6,C,Reserved for National Assignment,Intermediate Care - Level II,96,Hospice Change of Provider Notice
+017C,1,7,C,Hospital,Subacute Inpatient,17,Hospice Change of Provider Notice
+027C,2,7,C,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Hospice Change of Provider Notice
+037C,3,7,C,Home Health,Subacute Inpatient,37,Hospice Change of Provider Notice
+047C,4,7,C,Religious Nonmedical (Hospital),Subacute Inpatient,47,Hospice Change of Provider Notice
+057C,5,7,C,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Hospice Change of Provider Notice
+067C,6,7,C,Intermediate Care,Subacute Inpatient,67,Hospice Change of Provider Notice
+077C,7,7,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Hospice Change of Provider Notice
+087C,8,7,C,Special facility or hospital,Reserved for National Assignment,87,Hospice Change of Provider Notice
+097C,9,7,C,Reserved for National Assignment,Subacute Inpatient,97,Hospice Change of Provider Notice
+018C,1,8,C,Hospital,Reserved for National Assignment,18,Hospice Change of Provider Notice
+028C,2,8,C,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Hospice Change of Provider Notice
+038C,3,8,C,Home Health,Reserved for National Assignment,38,Hospice Change of Provider Notice
+048C,4,8,C,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Hospice Change of Provider Notice
+058C,5,8,C,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Hospice Change of Provider Notice
+068C,6,8,C,Intermediate Care,Reserved for National Assignment,68,Hospice Change of Provider Notice
+078C,7,8,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Hospice Change of Provider Notice
+088C,8,8,C,Special facility or hospital,Reserved for National Assignment,88,Hospice Change of Provider Notice
+098C,9,8,C,Reserved for National Assignment,Reserved for National Assignment,98,Hospice Change of Provider Notice
+019C,1,9,C,Hospital,Reserved for National Assignment,19,Hospice Change of Provider Notice
+029C,2,9,C,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Hospice Change of Provider Notice
+039C,3,9,C,Home Health,Reserved for National Assignment,39,Hospice Change of Provider Notice
+049C,4,9,C,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Hospice Change of Provider Notice
+059C,5,9,C,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Hospice Change of Provider Notice
+069C,6,9,C,Intermediate Care,Reserved for National Assignment,69,Hospice Change of Provider Notice
+079C,7,9,C,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Hospice Change of Provider Notice
+089C,8,9,C,Special facility or hospital,Other,89,Hospice Change of Provider Notice
+099C,9,9,C,Reserved for National Assignment,Reserved for National Assignment,99,Hospice Change of Provider Notice
+011D,1,1,D,Hospital,Inpatient (Part A),11,Hospice Election Void/Cancel
+021D,2,1,D,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Hospice Election Void/Cancel
+031D,3,1,D,Home Health,Inpatient (Part A),31,Hospice Election Void/Cancel
+041D,4,1,D,Religious Nonmedical (Hospital),Inpatient (Part A),41,Hospice Election Void/Cancel
+051D,5,1,D,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Hospice Election Void/Cancel
+061D,6,1,D,Intermediate Care,Inpatient (Part A),61,Hospice Election Void/Cancel
+071D,7,1,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Hospice Election Void/Cancel
+081D,8,1,D,Special facility or hospital,Hospice (non-hospital based),81,Hospice Election Void/Cancel
+091D,9,1,D,Reserved for National Assignment,Inpatient (Part A),91,Hospice Election Void/Cancel
+012D,1,2,D,Hospital,Inpatient (Part B),12,Hospice Election Void/Cancel
+022D,2,2,D,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Hospice Election Void/Cancel
+032D,3,2,D,Home Health,Inpatient (Part B),32,Hospice Election Void/Cancel
+042D,4,2,D,Religious Nonmedical (Hospital),Inpatient (Part B),42,Hospice Election Void/Cancel
+052D,5,2,D,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Hospice Election Void/Cancel
+062D,6,2,D,Intermediate Care,Inpatient (Part B),62,Hospice Election Void/Cancel
+072D,7,2,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Hospice Election Void/Cancel
+082D,8,2,D,Special facility or hospital,Hospice (hospital based),82,Hospice Election Void/Cancel
+092D,9,2,D,Reserved for National Assignment,Inpatient (Part B),92,Hospice Election Void/Cancel
+013D,1,3,D,Hospital,Outpatient,13,Hospice Election Void/Cancel
+023D,2,3,D,Skilled Nursing Facility (SNF),Outpatient,23,Hospice Election Void/Cancel
+033D,3,3,D,Home Health,Outpatient,33,Hospice Election Void/Cancel
+043D,4,3,D,Religious Nonmedical (Hospital),Outpatient,43,Hospice Election Void/Cancel
+053D,5,3,D,Religious Nonmedical (Extended Care),Outpatient,53,Hospice Election Void/Cancel
+063D,6,3,D,Intermediate Care,Outpatient,63,Hospice Election Void/Cancel
+073D,7,3,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Hospice Election Void/Cancel
+083D,8,3,D,Special facility or hospital,ASC Services to Hospital Outpatients,83,Hospice Election Void/Cancel
+093D,9,3,D,Reserved for National Assignment,Outpatient,93,Hospice Election Void/Cancel
+014D,1,4,D,Hospital,Other (Part B),14,Hospice Election Void/Cancel
+024D,2,4,D,Skilled Nursing Facility (SNF),Other (Part B),24,Hospice Election Void/Cancel
+034D,3,4,D,Home Health,Other (Part B),34,Hospice Election Void/Cancel
+044D,4,4,D,Religious Nonmedical (Hospital),Other (Part B),44,Hospice Election Void/Cancel
+054D,5,4,D,Religious Nonmedical (Extended Care),Other (Part B),54,Hospice Election Void/Cancel
+064D,6,4,D,Intermediate Care,Other (Part B),64,Hospice Election Void/Cancel
+074D,7,4,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Hospice Election Void/Cancel
+084D,8,4,D,Special facility or hospital,Free Standing Birthing Center,84,Hospice Election Void/Cancel
+094D,9,4,D,Reserved for National Assignment,Other (Part B),94,Hospice Election Void/Cancel
+015D,1,5,D,Hospital,Intermediate Care - Level I,15,Hospice Election Void/Cancel
+025D,2,5,D,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Hospice Election Void/Cancel
+035D,3,5,D,Home Health,Intermediate Care - Level I,35,Hospice Election Void/Cancel
+045D,4,5,D,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Hospice Election Void/Cancel
+055D,5,5,D,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Hospice Election Void/Cancel
+065D,6,5,D,Intermediate Care,Intermediate Care - Level I,65,Hospice Election Void/Cancel
+075D,7,5,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Hospice Election Void/Cancel
+085D,8,5,D,Special facility or hospital,Critical Access Hospital (CAH),85,Hospice Election Void/Cancel
+095D,9,5,D,Reserved for National Assignment,Intermediate Care - Level I,95,Hospice Election Void/Cancel
+016D,1,6,D,Hospital,Intermediate Care - Level II,16,Hospice Election Void/Cancel
+026D,2,6,D,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Hospice Election Void/Cancel
+036D,3,6,D,Home Health,Intermediate Care - Level II,36,Hospice Election Void/Cancel
+046D,4,6,D,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Hospice Election Void/Cancel
+056D,5,6,D,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Hospice Election Void/Cancel
+066D,6,6,D,Intermediate Care,Intermediate Care - Level II,66,Hospice Election Void/Cancel
+076D,7,6,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Hospice Election Void/Cancel
+086D,8,6,D,Special facility or hospital,Residential Facility,86,Hospice Election Void/Cancel
+096D,9,6,D,Reserved for National Assignment,Intermediate Care - Level II,96,Hospice Election Void/Cancel
+017D,1,7,D,Hospital,Subacute Inpatient,17,Hospice Election Void/Cancel
+027D,2,7,D,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Hospice Election Void/Cancel
+037D,3,7,D,Home Health,Subacute Inpatient,37,Hospice Election Void/Cancel
+047D,4,7,D,Religious Nonmedical (Hospital),Subacute Inpatient,47,Hospice Election Void/Cancel
+057D,5,7,D,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Hospice Election Void/Cancel
+067D,6,7,D,Intermediate Care,Subacute Inpatient,67,Hospice Election Void/Cancel
+077D,7,7,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Hospice Election Void/Cancel
+087D,8,7,D,Special facility or hospital,Reserved for National Assignment,87,Hospice Election Void/Cancel
+097D,9,7,D,Reserved for National Assignment,Subacute Inpatient,97,Hospice Election Void/Cancel
+018D,1,8,D,Hospital,Reserved for National Assignment,18,Hospice Election Void/Cancel
+028D,2,8,D,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Hospice Election Void/Cancel
+038D,3,8,D,Home Health,Reserved for National Assignment,38,Hospice Election Void/Cancel
+048D,4,8,D,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Hospice Election Void/Cancel
+058D,5,8,D,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Hospice Election Void/Cancel
+068D,6,8,D,Intermediate Care,Reserved for National Assignment,68,Hospice Election Void/Cancel
+078D,7,8,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Hospice Election Void/Cancel
+088D,8,8,D,Special facility or hospital,Reserved for National Assignment,88,Hospice Election Void/Cancel
+098D,9,8,D,Reserved for National Assignment,Reserved for National Assignment,98,Hospice Election Void/Cancel
+019D,1,9,D,Hospital,Reserved for National Assignment,19,Hospice Election Void/Cancel
+029D,2,9,D,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Hospice Election Void/Cancel
+039D,3,9,D,Home Health,Reserved for National Assignment,39,Hospice Election Void/Cancel
+049D,4,9,D,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Hospice Election Void/Cancel
+059D,5,9,D,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Hospice Election Void/Cancel
+069D,6,9,D,Intermediate Care,Reserved for National Assignment,69,Hospice Election Void/Cancel
+079D,7,9,D,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Hospice Election Void/Cancel
+089D,8,9,D,Special facility or hospital,Other,89,Hospice Election Void/Cancel
+099D,9,9,D,Reserved for National Assignment,Reserved for National Assignment,99,Hospice Election Void/Cancel
+011E,1,1,E,Hospital,Inpatient (Part A),11,Hospice Change of Ownership
+021E,2,1,E,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Hospice Change of Ownership
+031E,3,1,E,Home Health,Inpatient (Part A),31,Hospice Change of Ownership
+041E,4,1,E,Religious Nonmedical (Hospital),Inpatient (Part A),41,Hospice Change of Ownership
+051E,5,1,E,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Hospice Change of Ownership
+061E,6,1,E,Intermediate Care,Inpatient (Part A),61,Hospice Change of Ownership
+071E,7,1,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Hospice Change of Ownership
+081E,8,1,E,Special facility or hospital,Hospice (non-hospital based),81,Hospice Change of Ownership
+091E,9,1,E,Reserved for National Assignment,Inpatient (Part A),91,Hospice Change of Ownership
+012E,1,2,E,Hospital,Inpatient (Part B),12,Hospice Change of Ownership
+022E,2,2,E,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Hospice Change of Ownership
+032E,3,2,E,Home Health,Inpatient (Part B),32,Hospice Change of Ownership
+042E,4,2,E,Religious Nonmedical (Hospital),Inpatient (Part B),42,Hospice Change of Ownership
+052E,5,2,E,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Hospice Change of Ownership
+062E,6,2,E,Intermediate Care,Inpatient (Part B),62,Hospice Change of Ownership
+072E,7,2,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Hospice Change of Ownership
+082E,8,2,E,Special facility or hospital,Hospice (hospital based),82,Hospice Change of Ownership
+092E,9,2,E,Reserved for National Assignment,Inpatient (Part B),92,Hospice Change of Ownership
+013E,1,3,E,Hospital,Outpatient,13,Hospice Change of Ownership
+023E,2,3,E,Skilled Nursing Facility (SNF),Outpatient,23,Hospice Change of Ownership
+033E,3,3,E,Home Health,Outpatient,33,Hospice Change of Ownership
+043E,4,3,E,Religious Nonmedical (Hospital),Outpatient,43,Hospice Change of Ownership
+053E,5,3,E,Religious Nonmedical (Extended Care),Outpatient,53,Hospice Change of Ownership
+063E,6,3,E,Intermediate Care,Outpatient,63,Hospice Change of Ownership
+073E,7,3,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Hospice Change of Ownership
+083E,8,3,E,Special facility or hospital,ASC Services to Hospital Outpatients,83,Hospice Change of Ownership
+093E,9,3,E,Reserved for National Assignment,Outpatient,93,Hospice Change of Ownership
+014E,1,4,E,Hospital,Other (Part B),14,Hospice Change of Ownership
+024E,2,4,E,Skilled Nursing Facility (SNF),Other (Part B),24,Hospice Change of Ownership
+034E,3,4,E,Home Health,Other (Part B),34,Hospice Change of Ownership
+044E,4,4,E,Religious Nonmedical (Hospital),Other (Part B),44,Hospice Change of Ownership
+054E,5,4,E,Religious Nonmedical (Extended Care),Other (Part B),54,Hospice Change of Ownership
+064E,6,4,E,Intermediate Care,Other (Part B),64,Hospice Change of Ownership
+074E,7,4,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Hospice Change of Ownership
+084E,8,4,E,Special facility or hospital,Free Standing Birthing Center,84,Hospice Change of Ownership
+094E,9,4,E,Reserved for National Assignment,Other (Part B),94,Hospice Change of Ownership
+015E,1,5,E,Hospital,Intermediate Care - Level I,15,Hospice Change of Ownership
+025E,2,5,E,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Hospice Change of Ownership
+035E,3,5,E,Home Health,Intermediate Care - Level I,35,Hospice Change of Ownership
+045E,4,5,E,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Hospice Change of Ownership
+055E,5,5,E,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Hospice Change of Ownership
+065E,6,5,E,Intermediate Care,Intermediate Care - Level I,65,Hospice Change of Ownership
+075E,7,5,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Hospice Change of Ownership
+085E,8,5,E,Special facility or hospital,Critical Access Hospital (CAH),85,Hospice Change of Ownership
+095E,9,5,E,Reserved for National Assignment,Intermediate Care - Level I,95,Hospice Change of Ownership
+016E,1,6,E,Hospital,Intermediate Care - Level II,16,Hospice Change of Ownership
+026E,2,6,E,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Hospice Change of Ownership
+036E,3,6,E,Home Health,Intermediate Care - Level II,36,Hospice Change of Ownership
+046E,4,6,E,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Hospice Change of Ownership
+056E,5,6,E,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Hospice Change of Ownership
+066E,6,6,E,Intermediate Care,Intermediate Care - Level II,66,Hospice Change of Ownership
+076E,7,6,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Hospice Change of Ownership
+086E,8,6,E,Special facility or hospital,Residential Facility,86,Hospice Change of Ownership
+096E,9,6,E,Reserved for National Assignment,Intermediate Care - Level II,96,Hospice Change of Ownership
+017E,1,7,E,Hospital,Subacute Inpatient,17,Hospice Change of Ownership
+027E,2,7,E,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Hospice Change of Ownership
+037E,3,7,E,Home Health,Subacute Inpatient,37,Hospice Change of Ownership
+047E,4,7,E,Religious Nonmedical (Hospital),Subacute Inpatient,47,Hospice Change of Ownership
+057E,5,7,E,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Hospice Change of Ownership
+067E,6,7,E,Intermediate Care,Subacute Inpatient,67,Hospice Change of Ownership
+077E,7,7,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Hospice Change of Ownership
+087E,8,7,E,Special facility or hospital,Reserved for National Assignment,87,Hospice Change of Ownership
+097E,9,7,E,Reserved for National Assignment,Subacute Inpatient,97,Hospice Change of Ownership
+018E,1,8,E,Hospital,Reserved for National Assignment,18,Hospice Change of Ownership
+028E,2,8,E,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Hospice Change of Ownership
+038E,3,8,E,Home Health,Reserved for National Assignment,38,Hospice Change of Ownership
+048E,4,8,E,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Hospice Change of Ownership
+058E,5,8,E,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Hospice Change of Ownership
+068E,6,8,E,Intermediate Care,Reserved for National Assignment,68,Hospice Change of Ownership
+078E,7,8,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Hospice Change of Ownership
+088E,8,8,E,Special facility or hospital,Reserved for National Assignment,88,Hospice Change of Ownership
+098E,9,8,E,Reserved for National Assignment,Reserved for National Assignment,98,Hospice Change of Ownership
+019E,1,9,E,Hospital,Reserved for National Assignment,19,Hospice Change of Ownership
+029E,2,9,E,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Hospice Change of Ownership
+039E,3,9,E,Home Health,Reserved for National Assignment,39,Hospice Change of Ownership
+049E,4,9,E,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Hospice Change of Ownership
+059E,5,9,E,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Hospice Change of Ownership
+069E,6,9,E,Intermediate Care,Reserved for National Assignment,69,Hospice Change of Ownership
+079E,7,9,E,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Hospice Change of Ownership
+089E,8,9,E,Special facility or hospital,Other,89,Hospice Change of Ownership
+099E,9,9,E,Reserved for National Assignment,Reserved for National Assignment,99,Hospice Change of Ownership
+011F,1,1,F,Hospital,Inpatient (Part A),11,Beneficiary Initiated Adjustment Claim
+021F,2,1,F,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Beneficiary Initiated Adjustment Claim
+031F,3,1,F,Home Health,Inpatient (Part A),31,Beneficiary Initiated Adjustment Claim
+041F,4,1,F,Religious Nonmedical (Hospital),Inpatient (Part A),41,Beneficiary Initiated Adjustment Claim
+051F,5,1,F,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Beneficiary Initiated Adjustment Claim
+061F,6,1,F,Intermediate Care,Inpatient (Part A),61,Beneficiary Initiated Adjustment Claim
+071F,7,1,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Beneficiary Initiated Adjustment Claim
+081F,8,1,F,Special facility or hospital,Hospice (non-hospital based),81,Beneficiary Initiated Adjustment Claim
+091F,9,1,F,Reserved for National Assignment,Inpatient (Part A),91,Beneficiary Initiated Adjustment Claim
+012F,1,2,F,Hospital,Inpatient (Part B),12,Beneficiary Initiated Adjustment Claim
+022F,2,2,F,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Beneficiary Initiated Adjustment Claim
+032F,3,2,F,Home Health,Inpatient (Part B),32,Beneficiary Initiated Adjustment Claim
+042F,4,2,F,Religious Nonmedical (Hospital),Inpatient (Part B),42,Beneficiary Initiated Adjustment Claim
+052F,5,2,F,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Beneficiary Initiated Adjustment Claim
+062F,6,2,F,Intermediate Care,Inpatient (Part B),62,Beneficiary Initiated Adjustment Claim
+072F,7,2,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Beneficiary Initiated Adjustment Claim
+082F,8,2,F,Special facility or hospital,Hospice (hospital based),82,Beneficiary Initiated Adjustment Claim
+092F,9,2,F,Reserved for National Assignment,Inpatient (Part B),92,Beneficiary Initiated Adjustment Claim
+013F,1,3,F,Hospital,Outpatient,13,Beneficiary Initiated Adjustment Claim
+023F,2,3,F,Skilled Nursing Facility (SNF),Outpatient,23,Beneficiary Initiated Adjustment Claim
+033F,3,3,F,Home Health,Outpatient,33,Beneficiary Initiated Adjustment Claim
+043F,4,3,F,Religious Nonmedical (Hospital),Outpatient,43,Beneficiary Initiated Adjustment Claim
+053F,5,3,F,Religious Nonmedical (Extended Care),Outpatient,53,Beneficiary Initiated Adjustment Claim
+063F,6,3,F,Intermediate Care,Outpatient,63,Beneficiary Initiated Adjustment Claim
+073F,7,3,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Beneficiary Initiated Adjustment Claim
+083F,8,3,F,Special facility or hospital,ASC Services to Hospital Outpatients,83,Beneficiary Initiated Adjustment Claim
+093F,9,3,F,Reserved for National Assignment,Outpatient,93,Beneficiary Initiated Adjustment Claim
+014F,1,4,F,Hospital,Other (Part B),14,Beneficiary Initiated Adjustment Claim
+024F,2,4,F,Skilled Nursing Facility (SNF),Other (Part B),24,Beneficiary Initiated Adjustment Claim
+034F,3,4,F,Home Health,Other (Part B),34,Beneficiary Initiated Adjustment Claim
+044F,4,4,F,Religious Nonmedical (Hospital),Other (Part B),44,Beneficiary Initiated Adjustment Claim
+054F,5,4,F,Religious Nonmedical (Extended Care),Other (Part B),54,Beneficiary Initiated Adjustment Claim
+064F,6,4,F,Intermediate Care,Other (Part B),64,Beneficiary Initiated Adjustment Claim
+074F,7,4,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Beneficiary Initiated Adjustment Claim
+084F,8,4,F,Special facility or hospital,Free Standing Birthing Center,84,Beneficiary Initiated Adjustment Claim
+094F,9,4,F,Reserved for National Assignment,Other (Part B),94,Beneficiary Initiated Adjustment Claim
+015F,1,5,F,Hospital,Intermediate Care - Level I,15,Beneficiary Initiated Adjustment Claim
+025F,2,5,F,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Beneficiary Initiated Adjustment Claim
+035F,3,5,F,Home Health,Intermediate Care - Level I,35,Beneficiary Initiated Adjustment Claim
+045F,4,5,F,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Beneficiary Initiated Adjustment Claim
+055F,5,5,F,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Beneficiary Initiated Adjustment Claim
+065F,6,5,F,Intermediate Care,Intermediate Care - Level I,65,Beneficiary Initiated Adjustment Claim
+075F,7,5,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Beneficiary Initiated Adjustment Claim
+085F,8,5,F,Special facility or hospital,Critical Access Hospital (CAH),85,Beneficiary Initiated Adjustment Claim
+095F,9,5,F,Reserved for National Assignment,Intermediate Care - Level I,95,Beneficiary Initiated Adjustment Claim
+016F,1,6,F,Hospital,Intermediate Care - Level II,16,Beneficiary Initiated Adjustment Claim
+026F,2,6,F,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Beneficiary Initiated Adjustment Claim
+036F,3,6,F,Home Health,Intermediate Care - Level II,36,Beneficiary Initiated Adjustment Claim
+046F,4,6,F,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Beneficiary Initiated Adjustment Claim
+056F,5,6,F,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Beneficiary Initiated Adjustment Claim
+066F,6,6,F,Intermediate Care,Intermediate Care - Level II,66,Beneficiary Initiated Adjustment Claim
+076F,7,6,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Beneficiary Initiated Adjustment Claim
+086F,8,6,F,Special facility or hospital,Residential Facility,86,Beneficiary Initiated Adjustment Claim
+096F,9,6,F,Reserved for National Assignment,Intermediate Care - Level II,96,Beneficiary Initiated Adjustment Claim
+017F,1,7,F,Hospital,Subacute Inpatient,17,Beneficiary Initiated Adjustment Claim
+027F,2,7,F,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Beneficiary Initiated Adjustment Claim
+037F,3,7,F,Home Health,Subacute Inpatient,37,Beneficiary Initiated Adjustment Claim
+047F,4,7,F,Religious Nonmedical (Hospital),Subacute Inpatient,47,Beneficiary Initiated Adjustment Claim
+057F,5,7,F,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Beneficiary Initiated Adjustment Claim
+067F,6,7,F,Intermediate Care,Subacute Inpatient,67,Beneficiary Initiated Adjustment Claim
+077F,7,7,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Beneficiary Initiated Adjustment Claim
+087F,8,7,F,Special facility or hospital,Reserved for National Assignment,87,Beneficiary Initiated Adjustment Claim
+097F,9,7,F,Reserved for National Assignment,Subacute Inpatient,97,Beneficiary Initiated Adjustment Claim
+018F,1,8,F,Hospital,Reserved for National Assignment,18,Beneficiary Initiated Adjustment Claim
+028F,2,8,F,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Beneficiary Initiated Adjustment Claim
+038F,3,8,F,Home Health,Reserved for National Assignment,38,Beneficiary Initiated Adjustment Claim
+048F,4,8,F,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Beneficiary Initiated Adjustment Claim
+058F,5,8,F,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Beneficiary Initiated Adjustment Claim
+068F,6,8,F,Intermediate Care,Reserved for National Assignment,68,Beneficiary Initiated Adjustment Claim
+078F,7,8,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Beneficiary Initiated Adjustment Claim
+088F,8,8,F,Special facility or hospital,Reserved for National Assignment,88,Beneficiary Initiated Adjustment Claim
+098F,9,8,F,Reserved for National Assignment,Reserved for National Assignment,98,Beneficiary Initiated Adjustment Claim
+019F,1,9,F,Hospital,Reserved for National Assignment,19,Beneficiary Initiated Adjustment Claim
+029F,2,9,F,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Beneficiary Initiated Adjustment Claim
+039F,3,9,F,Home Health,Reserved for National Assignment,39,Beneficiary Initiated Adjustment Claim
+049F,4,9,F,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Beneficiary Initiated Adjustment Claim
+059F,5,9,F,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Beneficiary Initiated Adjustment Claim
+069F,6,9,F,Intermediate Care,Reserved for National Assignment,69,Beneficiary Initiated Adjustment Claim
+079F,7,9,F,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Beneficiary Initiated Adjustment Claim
+089F,8,9,F,Special facility or hospital,Other,89,Beneficiary Initiated Adjustment Claim
+099F,9,9,F,Reserved for National Assignment,Reserved for National Assignment,99,Beneficiary Initiated Adjustment Claim
+011G,1,1,G,Hospital,Inpatient (Part A),11,CWF Initiated Adjustment Claim
+021G,2,1,G,Skilled Nursing Facility (SNF),Inpatient (Part A),21,CWF Initiated Adjustment Claim
+031G,3,1,G,Home Health,Inpatient (Part A),31,CWF Initiated Adjustment Claim
+041G,4,1,G,Religious Nonmedical (Hospital),Inpatient (Part A),41,CWF Initiated Adjustment Claim
+051G,5,1,G,Religious Nonmedical (Extended Care),Inpatient (Part A),51,CWF Initiated Adjustment Claim
+061G,6,1,G,Intermediate Care,Inpatient (Part A),61,CWF Initiated Adjustment Claim
+071G,7,1,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,CWF Initiated Adjustment Claim
+081G,8,1,G,Special facility or hospital,Hospice (non-hospital based),81,CWF Initiated Adjustment Claim
+091G,9,1,G,Reserved for National Assignment,Inpatient (Part A),91,CWF Initiated Adjustment Claim
+012G,1,2,G,Hospital,Inpatient (Part B),12,CWF Initiated Adjustment Claim
+022G,2,2,G,Skilled Nursing Facility (SNF),Inpatient (Part B),22,CWF Initiated Adjustment Claim
+032G,3,2,G,Home Health,Inpatient (Part B),32,CWF Initiated Adjustment Claim
+042G,4,2,G,Religious Nonmedical (Hospital),Inpatient (Part B),42,CWF Initiated Adjustment Claim
+052G,5,2,G,Religious Nonmedical (Extended Care),Inpatient (Part B),52,CWF Initiated Adjustment Claim
+062G,6,2,G,Intermediate Care,Inpatient (Part B),62,CWF Initiated Adjustment Claim
+072G,7,2,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,CWF Initiated Adjustment Claim
+082G,8,2,G,Special facility or hospital,Hospice (hospital based),82,CWF Initiated Adjustment Claim
+092G,9,2,G,Reserved for National Assignment,Inpatient (Part B),92,CWF Initiated Adjustment Claim
+013G,1,3,G,Hospital,Outpatient,13,CWF Initiated Adjustment Claim
+023G,2,3,G,Skilled Nursing Facility (SNF),Outpatient,23,CWF Initiated Adjustment Claim
+033G,3,3,G,Home Health,Outpatient,33,CWF Initiated Adjustment Claim
+043G,4,3,G,Religious Nonmedical (Hospital),Outpatient,43,CWF Initiated Adjustment Claim
+053G,5,3,G,Religious Nonmedical (Extended Care),Outpatient,53,CWF Initiated Adjustment Claim
+063G,6,3,G,Intermediate Care,Outpatient,63,CWF Initiated Adjustment Claim
+073G,7,3,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,CWF Initiated Adjustment Claim
+083G,8,3,G,Special facility or hospital,ASC Services to Hospital Outpatients,83,CWF Initiated Adjustment Claim
+093G,9,3,G,Reserved for National Assignment,Outpatient,93,CWF Initiated Adjustment Claim
+014G,1,4,G,Hospital,Other (Part B),14,CWF Initiated Adjustment Claim
+024G,2,4,G,Skilled Nursing Facility (SNF),Other (Part B),24,CWF Initiated Adjustment Claim
+034G,3,4,G,Home Health,Other (Part B),34,CWF Initiated Adjustment Claim
+044G,4,4,G,Religious Nonmedical (Hospital),Other (Part B),44,CWF Initiated Adjustment Claim
+054G,5,4,G,Religious Nonmedical (Extended Care),Other (Part B),54,CWF Initiated Adjustment Claim
+064G,6,4,G,Intermediate Care,Other (Part B),64,CWF Initiated Adjustment Claim
+074G,7,4,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,CWF Initiated Adjustment Claim
+084G,8,4,G,Special facility or hospital,Free Standing Birthing Center,84,CWF Initiated Adjustment Claim
+094G,9,4,G,Reserved for National Assignment,Other (Part B),94,CWF Initiated Adjustment Claim
+015G,1,5,G,Hospital,Intermediate Care - Level I,15,CWF Initiated Adjustment Claim
+025G,2,5,G,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,CWF Initiated Adjustment Claim
+035G,3,5,G,Home Health,Intermediate Care - Level I,35,CWF Initiated Adjustment Claim
+045G,4,5,G,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,CWF Initiated Adjustment Claim
+055G,5,5,G,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,CWF Initiated Adjustment Claim
+065G,6,5,G,Intermediate Care,Intermediate Care - Level I,65,CWF Initiated Adjustment Claim
+075G,7,5,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,CWF Initiated Adjustment Claim
+085G,8,5,G,Special facility or hospital,Critical Access Hospital (CAH),85,CWF Initiated Adjustment Claim
+095G,9,5,G,Reserved for National Assignment,Intermediate Care - Level I,95,CWF Initiated Adjustment Claim
+016G,1,6,G,Hospital,Intermediate Care - Level II,16,CWF Initiated Adjustment Claim
+026G,2,6,G,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,CWF Initiated Adjustment Claim
+036G,3,6,G,Home Health,Intermediate Care - Level II,36,CWF Initiated Adjustment Claim
+046G,4,6,G,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,CWF Initiated Adjustment Claim
+056G,5,6,G,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,CWF Initiated Adjustment Claim
+066G,6,6,G,Intermediate Care,Intermediate Care - Level II,66,CWF Initiated Adjustment Claim
+076G,7,6,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,CWF Initiated Adjustment Claim
+086G,8,6,G,Special facility or hospital,Residential Facility,86,CWF Initiated Adjustment Claim
+096G,9,6,G,Reserved for National Assignment,Intermediate Care - Level II,96,CWF Initiated Adjustment Claim
+017G,1,7,G,Hospital,Subacute Inpatient,17,CWF Initiated Adjustment Claim
+027G,2,7,G,Skilled Nursing Facility (SNF),Subacute Inpatient,27,CWF Initiated Adjustment Claim
+037G,3,7,G,Home Health,Subacute Inpatient,37,CWF Initiated Adjustment Claim
+047G,4,7,G,Religious Nonmedical (Hospital),Subacute Inpatient,47,CWF Initiated Adjustment Claim
+057G,5,7,G,Religious Nonmedical (Extended Care),Subacute Inpatient,57,CWF Initiated Adjustment Claim
+067G,6,7,G,Intermediate Care,Subacute Inpatient,67,CWF Initiated Adjustment Claim
+077G,7,7,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,CWF Initiated Adjustment Claim
+087G,8,7,G,Special facility or hospital,Reserved for National Assignment,87,CWF Initiated Adjustment Claim
+097G,9,7,G,Reserved for National Assignment,Subacute Inpatient,97,CWF Initiated Adjustment Claim
+018G,1,8,G,Hospital,Reserved for National Assignment,18,CWF Initiated Adjustment Claim
+028G,2,8,G,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,CWF Initiated Adjustment Claim
+038G,3,8,G,Home Health,Reserved for National Assignment,38,CWF Initiated Adjustment Claim
+048G,4,8,G,Religious Nonmedical (Hospital),Reserved for National Assignment,48,CWF Initiated Adjustment Claim
+058G,5,8,G,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,CWF Initiated Adjustment Claim
+068G,6,8,G,Intermediate Care,Reserved for National Assignment,68,CWF Initiated Adjustment Claim
+078G,7,8,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,CWF Initiated Adjustment Claim
+088G,8,8,G,Special facility or hospital,Reserved for National Assignment,88,CWF Initiated Adjustment Claim
+098G,9,8,G,Reserved for National Assignment,Reserved for National Assignment,98,CWF Initiated Adjustment Claim
+019G,1,9,G,Hospital,Reserved for National Assignment,19,CWF Initiated Adjustment Claim
+029G,2,9,G,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,CWF Initiated Adjustment Claim
+039G,3,9,G,Home Health,Reserved for National Assignment,39,CWF Initiated Adjustment Claim
+049G,4,9,G,Religious Nonmedical (Hospital),Reserved for National Assignment,49,CWF Initiated Adjustment Claim
+059G,5,9,G,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,CWF Initiated Adjustment Claim
+069G,6,9,G,Intermediate Care,Reserved for National Assignment,69,CWF Initiated Adjustment Claim
+079G,7,9,G,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,CWF Initiated Adjustment Claim
+089G,8,9,G,Special facility or hospital,Other,89,CWF Initiated Adjustment Claim
+099G,9,9,G,Reserved for National Assignment,Reserved for National Assignment,99,CWF Initiated Adjustment Claim
+011H,1,1,H,Hospital,Inpatient (Part A),11,CMS Initiated Adjustment Claim
+021H,2,1,H,Skilled Nursing Facility (SNF),Inpatient (Part A),21,CMS Initiated Adjustment Claim
+031H,3,1,H,Home Health,Inpatient (Part A),31,CMS Initiated Adjustment Claim
+041H,4,1,H,Religious Nonmedical (Hospital),Inpatient (Part A),41,CMS Initiated Adjustment Claim
+051H,5,1,H,Religious Nonmedical (Extended Care),Inpatient (Part A),51,CMS Initiated Adjustment Claim
+061H,6,1,H,Intermediate Care,Inpatient (Part A),61,CMS Initiated Adjustment Claim
+071H,7,1,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,CMS Initiated Adjustment Claim
+081H,8,1,H,Special facility or hospital,Hospice (non-hospital based),81,CMS Initiated Adjustment Claim
+091H,9,1,H,Reserved for National Assignment,Inpatient (Part A),91,CMS Initiated Adjustment Claim
+012H,1,2,H,Hospital,Inpatient (Part B),12,CMS Initiated Adjustment Claim
+022H,2,2,H,Skilled Nursing Facility (SNF),Inpatient (Part B),22,CMS Initiated Adjustment Claim
+032H,3,2,H,Home Health,Inpatient (Part B),32,CMS Initiated Adjustment Claim
+042H,4,2,H,Religious Nonmedical (Hospital),Inpatient (Part B),42,CMS Initiated Adjustment Claim
+052H,5,2,H,Religious Nonmedical (Extended Care),Inpatient (Part B),52,CMS Initiated Adjustment Claim
+062H,6,2,H,Intermediate Care,Inpatient (Part B),62,CMS Initiated Adjustment Claim
+072H,7,2,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,CMS Initiated Adjustment Claim
+082H,8,2,H,Special facility or hospital,Hospice (hospital based),82,CMS Initiated Adjustment Claim
+092H,9,2,H,Reserved for National Assignment,Inpatient (Part B),92,CMS Initiated Adjustment Claim
+013H,1,3,H,Hospital,Outpatient,13,CMS Initiated Adjustment Claim
+023H,2,3,H,Skilled Nursing Facility (SNF),Outpatient,23,CMS Initiated Adjustment Claim
+033H,3,3,H,Home Health,Outpatient,33,CMS Initiated Adjustment Claim
+043H,4,3,H,Religious Nonmedical (Hospital),Outpatient,43,CMS Initiated Adjustment Claim
+053H,5,3,H,Religious Nonmedical (Extended Care),Outpatient,53,CMS Initiated Adjustment Claim
+063H,6,3,H,Intermediate Care,Outpatient,63,CMS Initiated Adjustment Claim
+073H,7,3,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,CMS Initiated Adjustment Claim
+083H,8,3,H,Special facility or hospital,ASC Services to Hospital Outpatients,83,CMS Initiated Adjustment Claim
+093H,9,3,H,Reserved for National Assignment,Outpatient,93,CMS Initiated Adjustment Claim
+014H,1,4,H,Hospital,Other (Part B),14,CMS Initiated Adjustment Claim
+024H,2,4,H,Skilled Nursing Facility (SNF),Other (Part B),24,CMS Initiated Adjustment Claim
+034H,3,4,H,Home Health,Other (Part B),34,CMS Initiated Adjustment Claim
+044H,4,4,H,Religious Nonmedical (Hospital),Other (Part B),44,CMS Initiated Adjustment Claim
+054H,5,4,H,Religious Nonmedical (Extended Care),Other (Part B),54,CMS Initiated Adjustment Claim
+064H,6,4,H,Intermediate Care,Other (Part B),64,CMS Initiated Adjustment Claim
+074H,7,4,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,CMS Initiated Adjustment Claim
+084H,8,4,H,Special facility or hospital,Free Standing Birthing Center,84,CMS Initiated Adjustment Claim
+094H,9,4,H,Reserved for National Assignment,Other (Part B),94,CMS Initiated Adjustment Claim
+015H,1,5,H,Hospital,Intermediate Care - Level I,15,CMS Initiated Adjustment Claim
+025H,2,5,H,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,CMS Initiated Adjustment Claim
+035H,3,5,H,Home Health,Intermediate Care - Level I,35,CMS Initiated Adjustment Claim
+045H,4,5,H,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,CMS Initiated Adjustment Claim
+055H,5,5,H,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,CMS Initiated Adjustment Claim
+065H,6,5,H,Intermediate Care,Intermediate Care - Level I,65,CMS Initiated Adjustment Claim
+075H,7,5,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,CMS Initiated Adjustment Claim
+085H,8,5,H,Special facility or hospital,Critical Access Hospital (CAH),85,CMS Initiated Adjustment Claim
+095H,9,5,H,Reserved for National Assignment,Intermediate Care - Level I,95,CMS Initiated Adjustment Claim
+016H,1,6,H,Hospital,Intermediate Care - Level II,16,CMS Initiated Adjustment Claim
+026H,2,6,H,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,CMS Initiated Adjustment Claim
+036H,3,6,H,Home Health,Intermediate Care - Level II,36,CMS Initiated Adjustment Claim
+046H,4,6,H,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,CMS Initiated Adjustment Claim
+056H,5,6,H,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,CMS Initiated Adjustment Claim
+066H,6,6,H,Intermediate Care,Intermediate Care - Level II,66,CMS Initiated Adjustment Claim
+076H,7,6,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,CMS Initiated Adjustment Claim
+086H,8,6,H,Special facility or hospital,Residential Facility,86,CMS Initiated Adjustment Claim
+096H,9,6,H,Reserved for National Assignment,Intermediate Care - Level II,96,CMS Initiated Adjustment Claim
+017H,1,7,H,Hospital,Subacute Inpatient,17,CMS Initiated Adjustment Claim
+027H,2,7,H,Skilled Nursing Facility (SNF),Subacute Inpatient,27,CMS Initiated Adjustment Claim
+037H,3,7,H,Home Health,Subacute Inpatient,37,CMS Initiated Adjustment Claim
+047H,4,7,H,Religious Nonmedical (Hospital),Subacute Inpatient,47,CMS Initiated Adjustment Claim
+057H,5,7,H,Religious Nonmedical (Extended Care),Subacute Inpatient,57,CMS Initiated Adjustment Claim
+067H,6,7,H,Intermediate Care,Subacute Inpatient,67,CMS Initiated Adjustment Claim
+077H,7,7,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,CMS Initiated Adjustment Claim
+087H,8,7,H,Special facility or hospital,Reserved for National Assignment,87,CMS Initiated Adjustment Claim
+097H,9,7,H,Reserved for National Assignment,Subacute Inpatient,97,CMS Initiated Adjustment Claim
+018H,1,8,H,Hospital,Reserved for National Assignment,18,CMS Initiated Adjustment Claim
+028H,2,8,H,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,CMS Initiated Adjustment Claim
+038H,3,8,H,Home Health,Reserved for National Assignment,38,CMS Initiated Adjustment Claim
+048H,4,8,H,Religious Nonmedical (Hospital),Reserved for National Assignment,48,CMS Initiated Adjustment Claim
+058H,5,8,H,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,CMS Initiated Adjustment Claim
+068H,6,8,H,Intermediate Care,Reserved for National Assignment,68,CMS Initiated Adjustment Claim
+078H,7,8,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,CMS Initiated Adjustment Claim
+088H,8,8,H,Special facility or hospital,Reserved for National Assignment,88,CMS Initiated Adjustment Claim
+098H,9,8,H,Reserved for National Assignment,Reserved for National Assignment,98,CMS Initiated Adjustment Claim
+019H,1,9,H,Hospital,Reserved for National Assignment,19,CMS Initiated Adjustment Claim
+029H,2,9,H,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,CMS Initiated Adjustment Claim
+039H,3,9,H,Home Health,Reserved for National Assignment,39,CMS Initiated Adjustment Claim
+049H,4,9,H,Religious Nonmedical (Hospital),Reserved for National Assignment,49,CMS Initiated Adjustment Claim
+059H,5,9,H,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,CMS Initiated Adjustment Claim
+069H,6,9,H,Intermediate Care,Reserved for National Assignment,69,CMS Initiated Adjustment Claim
+079H,7,9,H,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,CMS Initiated Adjustment Claim
+089H,8,9,H,Special facility or hospital,Other,89,CMS Initiated Adjustment Claim
+099H,9,9,H,Reserved for National Assignment,Reserved for National Assignment,99,CMS Initiated Adjustment Claim
+011I,1,1,I,Hospital,Inpatient (Part A),11,FI Adjustment Claim (Other than QIO or Provider)
+021I,2,1,I,Skilled Nursing Facility (SNF),Inpatient (Part A),21,FI Adjustment Claim (Other than QIO or Provider)
+031I,3,1,I,Home Health,Inpatient (Part A),31,FI Adjustment Claim (Other than QIO or Provider)
+041I,4,1,I,Religious Nonmedical (Hospital),Inpatient (Part A),41,FI Adjustment Claim (Other than QIO or Provider)
+051I,5,1,I,Religious Nonmedical (Extended Care),Inpatient (Part A),51,FI Adjustment Claim (Other than QIO or Provider)
+061I,6,1,I,Intermediate Care,Inpatient (Part A),61,FI Adjustment Claim (Other than QIO or Provider)
+071I,7,1,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,FI Adjustment Claim (Other than QIO or Provider)
+081I,8,1,I,Special facility or hospital,Hospice (non-hospital based),81,FI Adjustment Claim (Other than QIO or Provider)
+091I,9,1,I,Reserved for National Assignment,Inpatient (Part A),91,FI Adjustment Claim (Other than QIO or Provider)
+012I,1,2,I,Hospital,Inpatient (Part B),12,FI Adjustment Claim (Other than QIO or Provider)
+022I,2,2,I,Skilled Nursing Facility (SNF),Inpatient (Part B),22,FI Adjustment Claim (Other than QIO or Provider)
+032I,3,2,I,Home Health,Inpatient (Part B),32,FI Adjustment Claim (Other than QIO or Provider)
+042I,4,2,I,Religious Nonmedical (Hospital),Inpatient (Part B),42,FI Adjustment Claim (Other than QIO or Provider)
+052I,5,2,I,Religious Nonmedical (Extended Care),Inpatient (Part B),52,FI Adjustment Claim (Other than QIO or Provider)
+062I,6,2,I,Intermediate Care,Inpatient (Part B),62,FI Adjustment Claim (Other than QIO or Provider)
+072I,7,2,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,FI Adjustment Claim (Other than QIO or Provider)
+082I,8,2,I,Special facility or hospital,Hospice (hospital based),82,FI Adjustment Claim (Other than QIO or Provider)
+092I,9,2,I,Reserved for National Assignment,Inpatient (Part B),92,FI Adjustment Claim (Other than QIO or Provider)
+013I,1,3,I,Hospital,Outpatient,13,FI Adjustment Claim (Other than QIO or Provider)
+023I,2,3,I,Skilled Nursing Facility (SNF),Outpatient,23,FI Adjustment Claim (Other than QIO or Provider)
+033I,3,3,I,Home Health,Outpatient,33,FI Adjustment Claim (Other than QIO or Provider)
+043I,4,3,I,Religious Nonmedical (Hospital),Outpatient,43,FI Adjustment Claim (Other than QIO or Provider)
+053I,5,3,I,Religious Nonmedical (Extended Care),Outpatient,53,FI Adjustment Claim (Other than QIO or Provider)
+063I,6,3,I,Intermediate Care,Outpatient,63,FI Adjustment Claim (Other than QIO or Provider)
+073I,7,3,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,FI Adjustment Claim (Other than QIO or Provider)
+083I,8,3,I,Special facility or hospital,ASC Services to Hospital Outpatients,83,FI Adjustment Claim (Other than QIO or Provider)
+093I,9,3,I,Reserved for National Assignment,Outpatient,93,FI Adjustment Claim (Other than QIO or Provider)
+014I,1,4,I,Hospital,Other (Part B),14,FI Adjustment Claim (Other than QIO or Provider)
+024I,2,4,I,Skilled Nursing Facility (SNF),Other (Part B),24,FI Adjustment Claim (Other than QIO or Provider)
+034I,3,4,I,Home Health,Other (Part B),34,FI Adjustment Claim (Other than QIO or Provider)
+044I,4,4,I,Religious Nonmedical (Hospital),Other (Part B),44,FI Adjustment Claim (Other than QIO or Provider)
+054I,5,4,I,Religious Nonmedical (Extended Care),Other (Part B),54,FI Adjustment Claim (Other than QIO or Provider)
+064I,6,4,I,Intermediate Care,Other (Part B),64,FI Adjustment Claim (Other than QIO or Provider)
+074I,7,4,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,FI Adjustment Claim (Other than QIO or Provider)
+084I,8,4,I,Special facility or hospital,Free Standing Birthing Center,84,FI Adjustment Claim (Other than QIO or Provider)
+094I,9,4,I,Reserved for National Assignment,Other (Part B),94,FI Adjustment Claim (Other than QIO or Provider)
+015I,1,5,I,Hospital,Intermediate Care - Level I,15,FI Adjustment Claim (Other than QIO or Provider)
+025I,2,5,I,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,FI Adjustment Claim (Other than QIO or Provider)
+035I,3,5,I,Home Health,Intermediate Care - Level I,35,FI Adjustment Claim (Other than QIO or Provider)
+045I,4,5,I,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,FI Adjustment Claim (Other than QIO or Provider)
+055I,5,5,I,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,FI Adjustment Claim (Other than QIO or Provider)
+065I,6,5,I,Intermediate Care,Intermediate Care - Level I,65,FI Adjustment Claim (Other than QIO or Provider)
+075I,7,5,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,FI Adjustment Claim (Other than QIO or Provider)
+085I,8,5,I,Special facility or hospital,Critical Access Hospital (CAH),85,FI Adjustment Claim (Other than QIO or Provider)
+095I,9,5,I,Reserved for National Assignment,Intermediate Care - Level I,95,FI Adjustment Claim (Other than QIO or Provider)
+016I,1,6,I,Hospital,Intermediate Care - Level II,16,FI Adjustment Claim (Other than QIO or Provider)
+026I,2,6,I,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,FI Adjustment Claim (Other than QIO or Provider)
+036I,3,6,I,Home Health,Intermediate Care - Level II,36,FI Adjustment Claim (Other than QIO or Provider)
+046I,4,6,I,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,FI Adjustment Claim (Other than QIO or Provider)
+056I,5,6,I,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,FI Adjustment Claim (Other than QIO or Provider)
+066I,6,6,I,Intermediate Care,Intermediate Care - Level II,66,FI Adjustment Claim (Other than QIO or Provider)
+076I,7,6,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,FI Adjustment Claim (Other than QIO or Provider)
+086I,8,6,I,Special facility or hospital,Residential Facility,86,FI Adjustment Claim (Other than QIO or Provider)
+096I,9,6,I,Reserved for National Assignment,Intermediate Care - Level II,96,FI Adjustment Claim (Other than QIO or Provider)
+017I,1,7,I,Hospital,Subacute Inpatient,17,FI Adjustment Claim (Other than QIO or Provider)
+027I,2,7,I,Skilled Nursing Facility (SNF),Subacute Inpatient,27,FI Adjustment Claim (Other than QIO or Provider)
+037I,3,7,I,Home Health,Subacute Inpatient,37,FI Adjustment Claim (Other than QIO or Provider)
+047I,4,7,I,Religious Nonmedical (Hospital),Subacute Inpatient,47,FI Adjustment Claim (Other than QIO or Provider)
+057I,5,7,I,Religious Nonmedical (Extended Care),Subacute Inpatient,57,FI Adjustment Claim (Other than QIO or Provider)
+067I,6,7,I,Intermediate Care,Subacute Inpatient,67,FI Adjustment Claim (Other than QIO or Provider)
+077I,7,7,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,FI Adjustment Claim (Other than QIO or Provider)
+087I,8,7,I,Special facility or hospital,Reserved for National Assignment,87,FI Adjustment Claim (Other than QIO or Provider)
+097I,9,7,I,Reserved for National Assignment,Subacute Inpatient,97,FI Adjustment Claim (Other than QIO or Provider)
+018I,1,8,I,Hospital,Reserved for National Assignment,18,FI Adjustment Claim (Other than QIO or Provider)
+028I,2,8,I,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,FI Adjustment Claim (Other than QIO or Provider)
+038I,3,8,I,Home Health,Reserved for National Assignment,38,FI Adjustment Claim (Other than QIO or Provider)
+048I,4,8,I,Religious Nonmedical (Hospital),Reserved for National Assignment,48,FI Adjustment Claim (Other than QIO or Provider)
+058I,5,8,I,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,FI Adjustment Claim (Other than QIO or Provider)
+068I,6,8,I,Intermediate Care,Reserved for National Assignment,68,FI Adjustment Claim (Other than QIO or Provider)
+078I,7,8,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,FI Adjustment Claim (Other than QIO or Provider)
+088I,8,8,I,Special facility or hospital,Reserved for National Assignment,88,FI Adjustment Claim (Other than QIO or Provider)
+098I,9,8,I,Reserved for National Assignment,Reserved for National Assignment,98,FI Adjustment Claim (Other than QIO or Provider)
+019I,1,9,I,Hospital,Reserved for National Assignment,19,FI Adjustment Claim (Other than QIO or Provider)
+029I,2,9,I,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,FI Adjustment Claim (Other than QIO or Provider)
+039I,3,9,I,Home Health,Reserved for National Assignment,39,FI Adjustment Claim (Other than QIO or Provider)
+049I,4,9,I,Religious Nonmedical (Hospital),Reserved for National Assignment,49,FI Adjustment Claim (Other than QIO or Provider)
+059I,5,9,I,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,FI Adjustment Claim (Other than QIO or Provider)
+069I,6,9,I,Intermediate Care,Reserved for National Assignment,69,FI Adjustment Claim (Other than QIO or Provider)
+079I,7,9,I,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,FI Adjustment Claim (Other than QIO or Provider)
+089I,8,9,I,Special facility or hospital,Other,89,FI Adjustment Claim (Other than QIO or Provider)
+099I,9,9,I,Reserved for National Assignment,Reserved for National Assignment,99,FI Adjustment Claim (Other than QIO or Provider)
+011J,1,1,J,Hospital,Inpatient (Part A),11,Initiated Adjustment Claim/Other
+021J,2,1,J,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Initiated Adjustment Claim/Other
+031J,3,1,J,Home Health,Inpatient (Part A),31,Initiated Adjustment Claim/Other
+041J,4,1,J,Religious Nonmedical (Hospital),Inpatient (Part A),41,Initiated Adjustment Claim/Other
+051J,5,1,J,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Initiated Adjustment Claim/Other
+061J,6,1,J,Intermediate Care,Inpatient (Part A),61,Initiated Adjustment Claim/Other
+071J,7,1,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Initiated Adjustment Claim/Other
+081J,8,1,J,Special facility or hospital,Hospice (non-hospital based),81,Initiated Adjustment Claim/Other
+091J,9,1,J,Reserved for National Assignment,Inpatient (Part A),91,Initiated Adjustment Claim/Other
+012J,1,2,J,Hospital,Inpatient (Part B),12,Initiated Adjustment Claim/Other
+022J,2,2,J,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Initiated Adjustment Claim/Other
+032J,3,2,J,Home Health,Inpatient (Part B),32,Initiated Adjustment Claim/Other
+042J,4,2,J,Religious Nonmedical (Hospital),Inpatient (Part B),42,Initiated Adjustment Claim/Other
+052J,5,2,J,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Initiated Adjustment Claim/Other
+062J,6,2,J,Intermediate Care,Inpatient (Part B),62,Initiated Adjustment Claim/Other
+072J,7,2,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Initiated Adjustment Claim/Other
+082J,8,2,J,Special facility or hospital,Hospice (hospital based),82,Initiated Adjustment Claim/Other
+092J,9,2,J,Reserved for National Assignment,Inpatient (Part B),92,Initiated Adjustment Claim/Other
+013J,1,3,J,Hospital,Outpatient,13,Initiated Adjustment Claim/Other
+023J,2,3,J,Skilled Nursing Facility (SNF),Outpatient,23,Initiated Adjustment Claim/Other
+033J,3,3,J,Home Health,Outpatient,33,Initiated Adjustment Claim/Other
+043J,4,3,J,Religious Nonmedical (Hospital),Outpatient,43,Initiated Adjustment Claim/Other
+053J,5,3,J,Religious Nonmedical (Extended Care),Outpatient,53,Initiated Adjustment Claim/Other
+063J,6,3,J,Intermediate Care,Outpatient,63,Initiated Adjustment Claim/Other
+073J,7,3,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Initiated Adjustment Claim/Other
+083J,8,3,J,Special facility or hospital,ASC Services to Hospital Outpatients,83,Initiated Adjustment Claim/Other
+093J,9,3,J,Reserved for National Assignment,Outpatient,93,Initiated Adjustment Claim/Other
+014J,1,4,J,Hospital,Other (Part B),14,Initiated Adjustment Claim/Other
+024J,2,4,J,Skilled Nursing Facility (SNF),Other (Part B),24,Initiated Adjustment Claim/Other
+034J,3,4,J,Home Health,Other (Part B),34,Initiated Adjustment Claim/Other
+044J,4,4,J,Religious Nonmedical (Hospital),Other (Part B),44,Initiated Adjustment Claim/Other
+054J,5,4,J,Religious Nonmedical (Extended Care),Other (Part B),54,Initiated Adjustment Claim/Other
+064J,6,4,J,Intermediate Care,Other (Part B),64,Initiated Adjustment Claim/Other
+074J,7,4,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Initiated Adjustment Claim/Other
+084J,8,4,J,Special facility or hospital,Free Standing Birthing Center,84,Initiated Adjustment Claim/Other
+094J,9,4,J,Reserved for National Assignment,Other (Part B),94,Initiated Adjustment Claim/Other
+015J,1,5,J,Hospital,Intermediate Care - Level I,15,Initiated Adjustment Claim/Other
+025J,2,5,J,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Initiated Adjustment Claim/Other
+035J,3,5,J,Home Health,Intermediate Care - Level I,35,Initiated Adjustment Claim/Other
+045J,4,5,J,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Initiated Adjustment Claim/Other
+055J,5,5,J,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Initiated Adjustment Claim/Other
+065J,6,5,J,Intermediate Care,Intermediate Care - Level I,65,Initiated Adjustment Claim/Other
+075J,7,5,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Initiated Adjustment Claim/Other
+085J,8,5,J,Special facility or hospital,Critical Access Hospital (CAH),85,Initiated Adjustment Claim/Other
+095J,9,5,J,Reserved for National Assignment,Intermediate Care - Level I,95,Initiated Adjustment Claim/Other
+016J,1,6,J,Hospital,Intermediate Care - Level II,16,Initiated Adjustment Claim/Other
+026J,2,6,J,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Initiated Adjustment Claim/Other
+036J,3,6,J,Home Health,Intermediate Care - Level II,36,Initiated Adjustment Claim/Other
+046J,4,6,J,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Initiated Adjustment Claim/Other
+056J,5,6,J,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Initiated Adjustment Claim/Other
+066J,6,6,J,Intermediate Care,Intermediate Care - Level II,66,Initiated Adjustment Claim/Other
+076J,7,6,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Initiated Adjustment Claim/Other
+086J,8,6,J,Special facility or hospital,Residential Facility,86,Initiated Adjustment Claim/Other
+096J,9,6,J,Reserved for National Assignment,Intermediate Care - Level II,96,Initiated Adjustment Claim/Other
+017J,1,7,J,Hospital,Subacute Inpatient,17,Initiated Adjustment Claim/Other
+027J,2,7,J,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Initiated Adjustment Claim/Other
+037J,3,7,J,Home Health,Subacute Inpatient,37,Initiated Adjustment Claim/Other
+047J,4,7,J,Religious Nonmedical (Hospital),Subacute Inpatient,47,Initiated Adjustment Claim/Other
+057J,5,7,J,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Initiated Adjustment Claim/Other
+067J,6,7,J,Intermediate Care,Subacute Inpatient,67,Initiated Adjustment Claim/Other
+077J,7,7,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Initiated Adjustment Claim/Other
+087J,8,7,J,Special facility or hospital,Reserved for National Assignment,87,Initiated Adjustment Claim/Other
+097J,9,7,J,Reserved for National Assignment,Subacute Inpatient,97,Initiated Adjustment Claim/Other
+018J,1,8,J,Hospital,Reserved for National Assignment,18,Initiated Adjustment Claim/Other
+028J,2,8,J,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Initiated Adjustment Claim/Other
+038J,3,8,J,Home Health,Reserved for National Assignment,38,Initiated Adjustment Claim/Other
+048J,4,8,J,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Initiated Adjustment Claim/Other
+058J,5,8,J,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Initiated Adjustment Claim/Other
+068J,6,8,J,Intermediate Care,Reserved for National Assignment,68,Initiated Adjustment Claim/Other
+078J,7,8,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Initiated Adjustment Claim/Other
+088J,8,8,J,Special facility or hospital,Reserved for National Assignment,88,Initiated Adjustment Claim/Other
+098J,9,8,J,Reserved for National Assignment,Reserved for National Assignment,98,Initiated Adjustment Claim/Other
+019J,1,9,J,Hospital,Reserved for National Assignment,19,Initiated Adjustment Claim/Other
+029J,2,9,J,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Initiated Adjustment Claim/Other
+039J,3,9,J,Home Health,Reserved for National Assignment,39,Initiated Adjustment Claim/Other
+049J,4,9,J,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Initiated Adjustment Claim/Other
+059J,5,9,J,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Initiated Adjustment Claim/Other
+069J,6,9,J,Intermediate Care,Reserved for National Assignment,69,Initiated Adjustment Claim/Other
+079J,7,9,J,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Initiated Adjustment Claim/Other
+089J,8,9,J,Special facility or hospital,Other,89,Initiated Adjustment Claim/Other
+099J,9,9,J,Reserved for National Assignment,Reserved for National Assignment,99,Initiated Adjustment Claim/Other
+011K,1,1,K,Hospital,Inpatient (Part A),11,OIG Initiated Adjustment Claim
+021K,2,1,K,Skilled Nursing Facility (SNF),Inpatient (Part A),21,OIG Initiated Adjustment Claim
+031K,3,1,K,Home Health,Inpatient (Part A),31,OIG Initiated Adjustment Claim
+041K,4,1,K,Religious Nonmedical (Hospital),Inpatient (Part A),41,OIG Initiated Adjustment Claim
+051K,5,1,K,Religious Nonmedical (Extended Care),Inpatient (Part A),51,OIG Initiated Adjustment Claim
+061K,6,1,K,Intermediate Care,Inpatient (Part A),61,OIG Initiated Adjustment Claim
+071K,7,1,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,OIG Initiated Adjustment Claim
+081K,8,1,K,Special facility or hospital,Hospice (non-hospital based),81,OIG Initiated Adjustment Claim
+091K,9,1,K,Reserved for National Assignment,Inpatient (Part A),91,OIG Initiated Adjustment Claim
+012K,1,2,K,Hospital,Inpatient (Part B),12,OIG Initiated Adjustment Claim
+022K,2,2,K,Skilled Nursing Facility (SNF),Inpatient (Part B),22,OIG Initiated Adjustment Claim
+032K,3,2,K,Home Health,Inpatient (Part B),32,OIG Initiated Adjustment Claim
+042K,4,2,K,Religious Nonmedical (Hospital),Inpatient (Part B),42,OIG Initiated Adjustment Claim
+052K,5,2,K,Religious Nonmedical (Extended Care),Inpatient (Part B),52,OIG Initiated Adjustment Claim
+062K,6,2,K,Intermediate Care,Inpatient (Part B),62,OIG Initiated Adjustment Claim
+072K,7,2,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,OIG Initiated Adjustment Claim
+082K,8,2,K,Special facility or hospital,Hospice (hospital based),82,OIG Initiated Adjustment Claim
+092K,9,2,K,Reserved for National Assignment,Inpatient (Part B),92,OIG Initiated Adjustment Claim
+013K,1,3,K,Hospital,Outpatient,13,OIG Initiated Adjustment Claim
+023K,2,3,K,Skilled Nursing Facility (SNF),Outpatient,23,OIG Initiated Adjustment Claim
+033K,3,3,K,Home Health,Outpatient,33,OIG Initiated Adjustment Claim
+043K,4,3,K,Religious Nonmedical (Hospital),Outpatient,43,OIG Initiated Adjustment Claim
+053K,5,3,K,Religious Nonmedical (Extended Care),Outpatient,53,OIG Initiated Adjustment Claim
+063K,6,3,K,Intermediate Care,Outpatient,63,OIG Initiated Adjustment Claim
+073K,7,3,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,OIG Initiated Adjustment Claim
+083K,8,3,K,Special facility or hospital,ASC Services to Hospital Outpatients,83,OIG Initiated Adjustment Claim
+093K,9,3,K,Reserved for National Assignment,Outpatient,93,OIG Initiated Adjustment Claim
+014K,1,4,K,Hospital,Other (Part B),14,OIG Initiated Adjustment Claim
+024K,2,4,K,Skilled Nursing Facility (SNF),Other (Part B),24,OIG Initiated Adjustment Claim
+034K,3,4,K,Home Health,Other (Part B),34,OIG Initiated Adjustment Claim
+044K,4,4,K,Religious Nonmedical (Hospital),Other (Part B),44,OIG Initiated Adjustment Claim
+054K,5,4,K,Religious Nonmedical (Extended Care),Other (Part B),54,OIG Initiated Adjustment Claim
+064K,6,4,K,Intermediate Care,Other (Part B),64,OIG Initiated Adjustment Claim
+074K,7,4,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,OIG Initiated Adjustment Claim
+084K,8,4,K,Special facility or hospital,Free Standing Birthing Center,84,OIG Initiated Adjustment Claim
+094K,9,4,K,Reserved for National Assignment,Other (Part B),94,OIG Initiated Adjustment Claim
+015K,1,5,K,Hospital,Intermediate Care - Level I,15,OIG Initiated Adjustment Claim
+025K,2,5,K,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,OIG Initiated Adjustment Claim
+035K,3,5,K,Home Health,Intermediate Care - Level I,35,OIG Initiated Adjustment Claim
+045K,4,5,K,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,OIG Initiated Adjustment Claim
+055K,5,5,K,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,OIG Initiated Adjustment Claim
+065K,6,5,K,Intermediate Care,Intermediate Care - Level I,65,OIG Initiated Adjustment Claim
+075K,7,5,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,OIG Initiated Adjustment Claim
+085K,8,5,K,Special facility or hospital,Critical Access Hospital (CAH),85,OIG Initiated Adjustment Claim
+095K,9,5,K,Reserved for National Assignment,Intermediate Care - Level I,95,OIG Initiated Adjustment Claim
+016K,1,6,K,Hospital,Intermediate Care - Level II,16,OIG Initiated Adjustment Claim
+026K,2,6,K,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,OIG Initiated Adjustment Claim
+036K,3,6,K,Home Health,Intermediate Care - Level II,36,OIG Initiated Adjustment Claim
+046K,4,6,K,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,OIG Initiated Adjustment Claim
+056K,5,6,K,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,OIG Initiated Adjustment Claim
+066K,6,6,K,Intermediate Care,Intermediate Care - Level II,66,OIG Initiated Adjustment Claim
+076K,7,6,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,OIG Initiated Adjustment Claim
+086K,8,6,K,Special facility or hospital,Residential Facility,86,OIG Initiated Adjustment Claim
+096K,9,6,K,Reserved for National Assignment,Intermediate Care - Level II,96,OIG Initiated Adjustment Claim
+017K,1,7,K,Hospital,Subacute Inpatient,17,OIG Initiated Adjustment Claim
+027K,2,7,K,Skilled Nursing Facility (SNF),Subacute Inpatient,27,OIG Initiated Adjustment Claim
+037K,3,7,K,Home Health,Subacute Inpatient,37,OIG Initiated Adjustment Claim
+047K,4,7,K,Religious Nonmedical (Hospital),Subacute Inpatient,47,OIG Initiated Adjustment Claim
+057K,5,7,K,Religious Nonmedical (Extended Care),Subacute Inpatient,57,OIG Initiated Adjustment Claim
+067K,6,7,K,Intermediate Care,Subacute Inpatient,67,OIG Initiated Adjustment Claim
+077K,7,7,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,OIG Initiated Adjustment Claim
+087K,8,7,K,Special facility or hospital,Reserved for National Assignment,87,OIG Initiated Adjustment Claim
+097K,9,7,K,Reserved for National Assignment,Subacute Inpatient,97,OIG Initiated Adjustment Claim
+018K,1,8,K,Hospital,Reserved for National Assignment,18,OIG Initiated Adjustment Claim
+028K,2,8,K,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,OIG Initiated Adjustment Claim
+038K,3,8,K,Home Health,Reserved for National Assignment,38,OIG Initiated Adjustment Claim
+048K,4,8,K,Religious Nonmedical (Hospital),Reserved for National Assignment,48,OIG Initiated Adjustment Claim
+058K,5,8,K,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,OIG Initiated Adjustment Claim
+068K,6,8,K,Intermediate Care,Reserved for National Assignment,68,OIG Initiated Adjustment Claim
+078K,7,8,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,OIG Initiated Adjustment Claim
+088K,8,8,K,Special facility or hospital,Reserved for National Assignment,88,OIG Initiated Adjustment Claim
+098K,9,8,K,Reserved for National Assignment,Reserved for National Assignment,98,OIG Initiated Adjustment Claim
+019K,1,9,K,Hospital,Reserved for National Assignment,19,OIG Initiated Adjustment Claim
+029K,2,9,K,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,OIG Initiated Adjustment Claim
+039K,3,9,K,Home Health,Reserved for National Assignment,39,OIG Initiated Adjustment Claim
+049K,4,9,K,Religious Nonmedical (Hospital),Reserved for National Assignment,49,OIG Initiated Adjustment Claim
+059K,5,9,K,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,OIG Initiated Adjustment Claim
+069K,6,9,K,Intermediate Care,Reserved for National Assignment,69,OIG Initiated Adjustment Claim
+079K,7,9,K,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,OIG Initiated Adjustment Claim
+089K,8,9,K,Special facility or hospital,Other,89,OIG Initiated Adjustment Claim
+099K,9,9,K,Reserved for National Assignment,Reserved for National Assignment,99,OIG Initiated Adjustment Claim
+011M,1,1,M,Hospital,Inpatient (Part A),11,MSP Initiated Adjustment Claim
+021M,2,1,M,Skilled Nursing Facility (SNF),Inpatient (Part A),21,MSP Initiated Adjustment Claim
+031M,3,1,M,Home Health,Inpatient (Part A),31,MSP Initiated Adjustment Claim
+041M,4,1,M,Religious Nonmedical (Hospital),Inpatient (Part A),41,MSP Initiated Adjustment Claim
+051M,5,1,M,Religious Nonmedical (Extended Care),Inpatient (Part A),51,MSP Initiated Adjustment Claim
+061M,6,1,M,Intermediate Care,Inpatient (Part A),61,MSP Initiated Adjustment Claim
+071M,7,1,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,MSP Initiated Adjustment Claim
+081M,8,1,M,Special facility or hospital,Hospice (non-hospital based),81,MSP Initiated Adjustment Claim
+091M,9,1,M,Reserved for National Assignment,Inpatient (Part A),91,MSP Initiated Adjustment Claim
+012M,1,2,M,Hospital,Inpatient (Part B),12,MSP Initiated Adjustment Claim
+022M,2,2,M,Skilled Nursing Facility (SNF),Inpatient (Part B),22,MSP Initiated Adjustment Claim
+032M,3,2,M,Home Health,Inpatient (Part B),32,MSP Initiated Adjustment Claim
+042M,4,2,M,Religious Nonmedical (Hospital),Inpatient (Part B),42,MSP Initiated Adjustment Claim
+052M,5,2,M,Religious Nonmedical (Extended Care),Inpatient (Part B),52,MSP Initiated Adjustment Claim
+062M,6,2,M,Intermediate Care,Inpatient (Part B),62,MSP Initiated Adjustment Claim
+072M,7,2,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,MSP Initiated Adjustment Claim
+082M,8,2,M,Special facility or hospital,Hospice (hospital based),82,MSP Initiated Adjustment Claim
+092M,9,2,M,Reserved for National Assignment,Inpatient (Part B),92,MSP Initiated Adjustment Claim
+013M,1,3,M,Hospital,Outpatient,13,MSP Initiated Adjustment Claim
+023M,2,3,M,Skilled Nursing Facility (SNF),Outpatient,23,MSP Initiated Adjustment Claim
+033M,3,3,M,Home Health,Outpatient,33,MSP Initiated Adjustment Claim
+043M,4,3,M,Religious Nonmedical (Hospital),Outpatient,43,MSP Initiated Adjustment Claim
+053M,5,3,M,Religious Nonmedical (Extended Care),Outpatient,53,MSP Initiated Adjustment Claim
+063M,6,3,M,Intermediate Care,Outpatient,63,MSP Initiated Adjustment Claim
+073M,7,3,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,MSP Initiated Adjustment Claim
+083M,8,3,M,Special facility or hospital,ASC Services to Hospital Outpatients,83,MSP Initiated Adjustment Claim
+093M,9,3,M,Reserved for National Assignment,Outpatient,93,MSP Initiated Adjustment Claim
+014M,1,4,M,Hospital,Other (Part B),14,MSP Initiated Adjustment Claim
+024M,2,4,M,Skilled Nursing Facility (SNF),Other (Part B),24,MSP Initiated Adjustment Claim
+034M,3,4,M,Home Health,Other (Part B),34,MSP Initiated Adjustment Claim
+044M,4,4,M,Religious Nonmedical (Hospital),Other (Part B),44,MSP Initiated Adjustment Claim
+054M,5,4,M,Religious Nonmedical (Extended Care),Other (Part B),54,MSP Initiated Adjustment Claim
+064M,6,4,M,Intermediate Care,Other (Part B),64,MSP Initiated Adjustment Claim
+074M,7,4,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,MSP Initiated Adjustment Claim
+084M,8,4,M,Special facility or hospital,Free Standing Birthing Center,84,MSP Initiated Adjustment Claim
+094M,9,4,M,Reserved for National Assignment,Other (Part B),94,MSP Initiated Adjustment Claim
+015M,1,5,M,Hospital,Intermediate Care - Level I,15,MSP Initiated Adjustment Claim
+025M,2,5,M,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,MSP Initiated Adjustment Claim
+035M,3,5,M,Home Health,Intermediate Care - Level I,35,MSP Initiated Adjustment Claim
+045M,4,5,M,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,MSP Initiated Adjustment Claim
+055M,5,5,M,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,MSP Initiated Adjustment Claim
+065M,6,5,M,Intermediate Care,Intermediate Care - Level I,65,MSP Initiated Adjustment Claim
+075M,7,5,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,MSP Initiated Adjustment Claim
+085M,8,5,M,Special facility or hospital,Critical Access Hospital (CAH),85,MSP Initiated Adjustment Claim
+095M,9,5,M,Reserved for National Assignment,Intermediate Care - Level I,95,MSP Initiated Adjustment Claim
+016M,1,6,M,Hospital,Intermediate Care - Level II,16,MSP Initiated Adjustment Claim
+026M,2,6,M,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,MSP Initiated Adjustment Claim
+036M,3,6,M,Home Health,Intermediate Care - Level II,36,MSP Initiated Adjustment Claim
+046M,4,6,M,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,MSP Initiated Adjustment Claim
+056M,5,6,M,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,MSP Initiated Adjustment Claim
+066M,6,6,M,Intermediate Care,Intermediate Care - Level II,66,MSP Initiated Adjustment Claim
+076M,7,6,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,MSP Initiated Adjustment Claim
+086M,8,6,M,Special facility or hospital,Residential Facility,86,MSP Initiated Adjustment Claim
+096M,9,6,M,Reserved for National Assignment,Intermediate Care - Level II,96,MSP Initiated Adjustment Claim
+017M,1,7,M,Hospital,Subacute Inpatient,17,MSP Initiated Adjustment Claim
+027M,2,7,M,Skilled Nursing Facility (SNF),Subacute Inpatient,27,MSP Initiated Adjustment Claim
+037M,3,7,M,Home Health,Subacute Inpatient,37,MSP Initiated Adjustment Claim
+047M,4,7,M,Religious Nonmedical (Hospital),Subacute Inpatient,47,MSP Initiated Adjustment Claim
+057M,5,7,M,Religious Nonmedical (Extended Care),Subacute Inpatient,57,MSP Initiated Adjustment Claim
+067M,6,7,M,Intermediate Care,Subacute Inpatient,67,MSP Initiated Adjustment Claim
+077M,7,7,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,MSP Initiated Adjustment Claim
+087M,8,7,M,Special facility or hospital,Reserved for National Assignment,87,MSP Initiated Adjustment Claim
+097M,9,7,M,Reserved for National Assignment,Subacute Inpatient,97,MSP Initiated Adjustment Claim
+018M,1,8,M,Hospital,Reserved for National Assignment,18,MSP Initiated Adjustment Claim
+028M,2,8,M,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,MSP Initiated Adjustment Claim
+038M,3,8,M,Home Health,Reserved for National Assignment,38,MSP Initiated Adjustment Claim
+048M,4,8,M,Religious Nonmedical (Hospital),Reserved for National Assignment,48,MSP Initiated Adjustment Claim
+058M,5,8,M,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,MSP Initiated Adjustment Claim
+068M,6,8,M,Intermediate Care,Reserved for National Assignment,68,MSP Initiated Adjustment Claim
+078M,7,8,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,MSP Initiated Adjustment Claim
+088M,8,8,M,Special facility or hospital,Reserved for National Assignment,88,MSP Initiated Adjustment Claim
+098M,9,8,M,Reserved for National Assignment,Reserved for National Assignment,98,MSP Initiated Adjustment Claim
+019M,1,9,M,Hospital,Reserved for National Assignment,19,MSP Initiated Adjustment Claim
+029M,2,9,M,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,MSP Initiated Adjustment Claim
+039M,3,9,M,Home Health,Reserved for National Assignment,39,MSP Initiated Adjustment Claim
+049M,4,9,M,Religious Nonmedical (Hospital),Reserved for National Assignment,49,MSP Initiated Adjustment Claim
+059M,5,9,M,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,MSP Initiated Adjustment Claim
+069M,6,9,M,Intermediate Care,Reserved for National Assignment,69,MSP Initiated Adjustment Claim
+079M,7,9,M,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,MSP Initiated Adjustment Claim
+089M,8,9,M,Special facility or hospital,Other,89,MSP Initiated Adjustment Claim
+099M,9,9,M,Reserved for National Assignment,Reserved for National Assignment,99,MSP Initiated Adjustment Claim
+011P,1,1,P,Hospital,Inpatient (Part A),11,QIO Adjustment Claim
+021P,2,1,P,Skilled Nursing Facility (SNF),Inpatient (Part A),21,QIO Adjustment Claim
+031P,3,1,P,Home Health,Inpatient (Part A),31,QIO Adjustment Claim
+041P,4,1,P,Religious Nonmedical (Hospital),Inpatient (Part A),41,QIO Adjustment Claim
+051P,5,1,P,Religious Nonmedical (Extended Care),Inpatient (Part A),51,QIO Adjustment Claim
+061P,6,1,P,Intermediate Care,Inpatient (Part A),61,QIO Adjustment Claim
+071P,7,1,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,QIO Adjustment Claim
+081P,8,1,P,Special facility or hospital,Hospice (non-hospital based),81,QIO Adjustment Claim
+091P,9,1,P,Reserved for National Assignment,Inpatient (Part A),91,QIO Adjustment Claim
+012P,1,2,P,Hospital,Inpatient (Part B),12,QIO Adjustment Claim
+022P,2,2,P,Skilled Nursing Facility (SNF),Inpatient (Part B),22,QIO Adjustment Claim
+032P,3,2,P,Home Health,Inpatient (Part B),32,QIO Adjustment Claim
+042P,4,2,P,Religious Nonmedical (Hospital),Inpatient (Part B),42,QIO Adjustment Claim
+052P,5,2,P,Religious Nonmedical (Extended Care),Inpatient (Part B),52,QIO Adjustment Claim
+062P,6,2,P,Intermediate Care,Inpatient (Part B),62,QIO Adjustment Claim
+072P,7,2,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,QIO Adjustment Claim
+082P,8,2,P,Special facility or hospital,Hospice (hospital based),82,QIO Adjustment Claim
+092P,9,2,P,Reserved for National Assignment,Inpatient (Part B),92,QIO Adjustment Claim
+013P,1,3,P,Hospital,Outpatient,13,QIO Adjustment Claim
+023P,2,3,P,Skilled Nursing Facility (SNF),Outpatient,23,QIO Adjustment Claim
+033P,3,3,P,Home Health,Outpatient,33,QIO Adjustment Claim
+043P,4,3,P,Religious Nonmedical (Hospital),Outpatient,43,QIO Adjustment Claim
+053P,5,3,P,Religious Nonmedical (Extended Care),Outpatient,53,QIO Adjustment Claim
+063P,6,3,P,Intermediate Care,Outpatient,63,QIO Adjustment Claim
+073P,7,3,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,QIO Adjustment Claim
+083P,8,3,P,Special facility or hospital,ASC Services to Hospital Outpatients,83,QIO Adjustment Claim
+093P,9,3,P,Reserved for National Assignment,Outpatient,93,QIO Adjustment Claim
+014P,1,4,P,Hospital,Other (Part B),14,QIO Adjustment Claim
+024P,2,4,P,Skilled Nursing Facility (SNF),Other (Part B),24,QIO Adjustment Claim
+034P,3,4,P,Home Health,Other (Part B),34,QIO Adjustment Claim
+044P,4,4,P,Religious Nonmedical (Hospital),Other (Part B),44,QIO Adjustment Claim
+054P,5,4,P,Religious Nonmedical (Extended Care),Other (Part B),54,QIO Adjustment Claim
+064P,6,4,P,Intermediate Care,Other (Part B),64,QIO Adjustment Claim
+074P,7,4,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,QIO Adjustment Claim
+084P,8,4,P,Special facility or hospital,Free Standing Birthing Center,84,QIO Adjustment Claim
+094P,9,4,P,Reserved for National Assignment,Other (Part B),94,QIO Adjustment Claim
+015P,1,5,P,Hospital,Intermediate Care - Level I,15,QIO Adjustment Claim
+025P,2,5,P,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,QIO Adjustment Claim
+035P,3,5,P,Home Health,Intermediate Care - Level I,35,QIO Adjustment Claim
+045P,4,5,P,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,QIO Adjustment Claim
+055P,5,5,P,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,QIO Adjustment Claim
+065P,6,5,P,Intermediate Care,Intermediate Care - Level I,65,QIO Adjustment Claim
+075P,7,5,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,QIO Adjustment Claim
+085P,8,5,P,Special facility or hospital,Critical Access Hospital (CAH),85,QIO Adjustment Claim
+095P,9,5,P,Reserved for National Assignment,Intermediate Care - Level I,95,QIO Adjustment Claim
+016P,1,6,P,Hospital,Intermediate Care - Level II,16,QIO Adjustment Claim
+026P,2,6,P,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,QIO Adjustment Claim
+036P,3,6,P,Home Health,Intermediate Care - Level II,36,QIO Adjustment Claim
+046P,4,6,P,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,QIO Adjustment Claim
+056P,5,6,P,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,QIO Adjustment Claim
+066P,6,6,P,Intermediate Care,Intermediate Care - Level II,66,QIO Adjustment Claim
+076P,7,6,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,QIO Adjustment Claim
+086P,8,6,P,Special facility or hospital,Residential Facility,86,QIO Adjustment Claim
+096P,9,6,P,Reserved for National Assignment,Intermediate Care - Level II,96,QIO Adjustment Claim
+017P,1,7,P,Hospital,Subacute Inpatient,17,QIO Adjustment Claim
+027P,2,7,P,Skilled Nursing Facility (SNF),Subacute Inpatient,27,QIO Adjustment Claim
+037P,3,7,P,Home Health,Subacute Inpatient,37,QIO Adjustment Claim
+047P,4,7,P,Religious Nonmedical (Hospital),Subacute Inpatient,47,QIO Adjustment Claim
+057P,5,7,P,Religious Nonmedical (Extended Care),Subacute Inpatient,57,QIO Adjustment Claim
+067P,6,7,P,Intermediate Care,Subacute Inpatient,67,QIO Adjustment Claim
+077P,7,7,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,QIO Adjustment Claim
+087P,8,7,P,Special facility or hospital,Reserved for National Assignment,87,QIO Adjustment Claim
+097P,9,7,P,Reserved for National Assignment,Subacute Inpatient,97,QIO Adjustment Claim
+018P,1,8,P,Hospital,Reserved for National Assignment,18,QIO Adjustment Claim
+028P,2,8,P,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,QIO Adjustment Claim
+038P,3,8,P,Home Health,Reserved for National Assignment,38,QIO Adjustment Claim
+048P,4,8,P,Religious Nonmedical (Hospital),Reserved for National Assignment,48,QIO Adjustment Claim
+058P,5,8,P,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,QIO Adjustment Claim
+068P,6,8,P,Intermediate Care,Reserved for National Assignment,68,QIO Adjustment Claim
+078P,7,8,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,QIO Adjustment Claim
+088P,8,8,P,Special facility or hospital,Reserved for National Assignment,88,QIO Adjustment Claim
+098P,9,8,P,Reserved for National Assignment,Reserved for National Assignment,98,QIO Adjustment Claim
+019P,1,9,P,Hospital,Reserved for National Assignment,19,QIO Adjustment Claim
+029P,2,9,P,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,QIO Adjustment Claim
+039P,3,9,P,Home Health,Reserved for National Assignment,39,QIO Adjustment Claim
+049P,4,9,P,Religious Nonmedical (Hospital),Reserved for National Assignment,49,QIO Adjustment Claim
+059P,5,9,P,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,QIO Adjustment Claim
+069P,6,9,P,Intermediate Care,Reserved for National Assignment,69,QIO Adjustment Claim
+079P,7,9,P,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,QIO Adjustment Claim
+089P,8,9,P,Special facility or hospital,Other,89,QIO Adjustment Claim
+099P,9,9,P,Reserved for National Assignment,Reserved for National Assignment,99,QIO Adjustment Claim
+011Q,1,1,Q,Hospital,Inpatient (Part A),11,Reopening/Adjustment
+021Q,2,1,Q,Skilled Nursing Facility (SNF),Inpatient (Part A),21,Reopening/Adjustment
+031Q,3,1,Q,Home Health,Inpatient (Part A),31,Reopening/Adjustment
+041Q,4,1,Q,Religious Nonmedical (Hospital),Inpatient (Part A),41,Reopening/Adjustment
+051Q,5,1,Q,Religious Nonmedical (Extended Care),Inpatient (Part A),51,Reopening/Adjustment
+061Q,6,1,Q,Intermediate Care,Inpatient (Part A),61,Reopening/Adjustment
+071Q,7,1,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Rural Health Center (RHC),71,Reopening/Adjustment
+081Q,8,1,Q,Special facility or hospital,Hospice (non-hospital based),81,Reopening/Adjustment
+091Q,9,1,Q,Reserved for National Assignment,Inpatient (Part A),91,Reopening/Adjustment
+012Q,1,2,Q,Hospital,Inpatient (Part B),12,Reopening/Adjustment
+022Q,2,2,Q,Skilled Nursing Facility (SNF),Inpatient (Part B),22,Reopening/Adjustment
+032Q,3,2,Q,Home Health,Inpatient (Part B),32,Reopening/Adjustment
+042Q,4,2,Q,Religious Nonmedical (Hospital),Inpatient (Part B),42,Reopening/Adjustment
+052Q,5,2,Q,Religious Nonmedical (Extended Care),Inpatient (Part B),52,Reopening/Adjustment
+062Q,6,2,Q,Intermediate Care,Inpatient (Part B),62,Reopening/Adjustment
+072Q,7,2,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Hospital based or Independent Renal Dialysis Center,72,Reopening/Adjustment
+082Q,8,2,Q,Special facility or hospital,Hospice (hospital based),82,Reopening/Adjustment
+092Q,9,2,Q,Reserved for National Assignment,Inpatient (Part B),92,Reopening/Adjustment
+013Q,1,3,Q,Hospital,Outpatient,13,Reopening/Adjustment
+023Q,2,3,Q,Skilled Nursing Facility (SNF),Outpatient,23,Reopening/Adjustment
+033Q,3,3,Q,Home Health,Outpatient,33,Reopening/Adjustment
+043Q,4,3,Q,Religious Nonmedical (Hospital),Outpatient,43,Reopening/Adjustment
+053Q,5,3,Q,Religious Nonmedical (Extended Care),Outpatient,53,Reopening/Adjustment
+063Q,6,3,Q,Intermediate Care,Outpatient,63,Reopening/Adjustment
+073Q,7,3,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),73,Reopening/Adjustment
+083Q,8,3,Q,Special facility or hospital,ASC Services to Hospital Outpatients,83,Reopening/Adjustment
+093Q,9,3,Q,Reserved for National Assignment,Outpatient,93,Reopening/Adjustment
+014Q,1,4,Q,Hospital,Other (Part B),14,Reopening/Adjustment
+024Q,2,4,Q,Skilled Nursing Facility (SNF),Other (Part B),24,Reopening/Adjustment
+034Q,3,4,Q,Home Health,Other (Part B),34,Reopening/Adjustment
+044Q,4,4,Q,Religious Nonmedical (Hospital),Other (Part B),44,Reopening/Adjustment
+054Q,5,4,Q,Religious Nonmedical (Extended Care),Other (Part B),54,Reopening/Adjustment
+064Q,6,4,Q,Intermediate Care,Other (Part B),64,Reopening/Adjustment
+074Q,7,4,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other Rehabilitation Facility (ORF),74,Reopening/Adjustment
+084Q,8,4,Q,Special facility or hospital,Free Standing Birthing Center,84,Reopening/Adjustment
+094Q,9,4,Q,Reserved for National Assignment,Other (Part B),94,Reopening/Adjustment
+015Q,1,5,Q,Hospital,Intermediate Care - Level I,15,Reopening/Adjustment
+025Q,2,5,Q,Skilled Nursing Facility (SNF),Intermediate Care - Level I,25,Reopening/Adjustment
+035Q,3,5,Q,Home Health,Intermediate Care - Level I,35,Reopening/Adjustment
+045Q,4,5,Q,Religious Nonmedical (Hospital),Intermediate Care - Level I,45,Reopening/Adjustment
+055Q,5,5,Q,Religious Nonmedical (Extended Care),Intermediate Care - Level I,55,Reopening/Adjustment
+065Q,6,5,Q,Intermediate Care,Intermediate Care - Level I,65,Reopening/Adjustment
+075Q,7,5,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Comprehensive Outpatient Rehabilitation Facility (CORF),75,Reopening/Adjustment
+085Q,8,5,Q,Special facility or hospital,Critical Access Hospital (CAH),85,Reopening/Adjustment
+095Q,9,5,Q,Reserved for National Assignment,Intermediate Care - Level I,95,Reopening/Adjustment
+016Q,1,6,Q,Hospital,Intermediate Care - Level II,16,Reopening/Adjustment
+026Q,2,6,Q,Skilled Nursing Facility (SNF),Intermediate Care - Level II,26,Reopening/Adjustment
+036Q,3,6,Q,Home Health,Intermediate Care - Level II,36,Reopening/Adjustment
+046Q,4,6,Q,Religious Nonmedical (Hospital),Intermediate Care - Level II,46,Reopening/Adjustment
+056Q,5,6,Q,Religious Nonmedical (Extended Care),Intermediate Care - Level II,56,Reopening/Adjustment
+066Q,6,6,Q,Intermediate Care,Intermediate Care - Level II,66,Reopening/Adjustment
+076Q,7,6,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Community Mental Health Center (CMHC),76,Reopening/Adjustment
+086Q,8,6,Q,Special facility or hospital,Residential Facility,86,Reopening/Adjustment
+096Q,9,6,Q,Reserved for National Assignment,Intermediate Care - Level II,96,Reopening/Adjustment
+017Q,1,7,Q,Hospital,Subacute Inpatient,17,Reopening/Adjustment
+027Q,2,7,Q,Skilled Nursing Facility (SNF),Subacute Inpatient,27,Reopening/Adjustment
+037Q,3,7,Q,Home Health,Subacute Inpatient,37,Reopening/Adjustment
+047Q,4,7,Q,Religious Nonmedical (Hospital),Subacute Inpatient,47,Reopening/Adjustment
+057Q,5,7,Q,Religious Nonmedical (Extended Care),Subacute Inpatient,57,Reopening/Adjustment
+067Q,6,7,Q,Intermediate Care,Subacute Inpatient,67,Reopening/Adjustment
+077Q,7,7,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Federally Qualified Health Center (FQHC),77,Reopening/Adjustment
+087Q,8,7,Q,Special facility or hospital,Reserved for National Assignment,87,Reopening/Adjustment
+097Q,9,7,Q,Reserved for National Assignment,Subacute Inpatient,97,Reopening/Adjustment
+018Q,1,8,Q,Hospital,Reserved for National Assignment,18,Reopening/Adjustment
+028Q,2,8,Q,Skilled Nursing Facility (SNF),Reserved for National Assignment,28,Reopening/Adjustment
+038Q,3,8,Q,Home Health,Reserved for National Assignment,38,Reopening/Adjustment
+048Q,4,8,Q,Religious Nonmedical (Hospital),Reserved for National Assignment,48,Reopening/Adjustment
+058Q,5,8,Q,Religious Nonmedical (Extended Care),Reserved for National Assignment,58,Reopening/Adjustment
+068Q,6,8,Q,Intermediate Care,Reserved for National Assignment,68,Reopening/Adjustment
+078Q,7,8,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Reserved for National Assignment,78,Reopening/Adjustment
+088Q,8,8,Q,Special facility or hospital,Reserved for National Assignment,88,Reopening/Adjustment
+098Q,9,8,Q,Reserved for National Assignment,Reserved for National Assignment,98,Reopening/Adjustment
+019Q,1,9,Q,Hospital,Reserved for National Assignment,19,Reopening/Adjustment
+029Q,2,9,Q,Skilled Nursing Facility (SNF),Reserved for National Assignment,29,Reopening/Adjustment
+039Q,3,9,Q,Home Health,Reserved for National Assignment,39,Reopening/Adjustment
+049Q,4,9,Q,Religious Nonmedical (Hospital),Reserved for National Assignment,49,Reopening/Adjustment
+059Q,5,9,Q,Religious Nonmedical (Extended Care),Reserved for National Assignment,59,Reopening/Adjustment
+069Q,6,9,Q,Intermediate Care,Reserved for National Assignment,69,Reopening/Adjustment
+079Q,7,9,Q,Clinic or Hospital based End Stage Renal Disease (ESRD) facility,Other,79,Reopening/Adjustment
+089Q,8,9,Q,Special facility or hospital,Other,89,Reopening/Adjustment
+099Q,9,9,Q,Reserved for National Assignment,Reserved for National Assignment,99,Reopening/Adjustment
